@@ -9,8 +9,7 @@ Imports System.Data.SqlClient
 Public Class FrmAccGnrlReport
 
     Private customColumnChooserDialog As CustomColumnChooser = Nothing
-    'git test test
-    't2
+    ' git to rubi
     Private Sub FrmAccGnrlReport_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
 
         Me.DateFrom.InitControl(False, False)
