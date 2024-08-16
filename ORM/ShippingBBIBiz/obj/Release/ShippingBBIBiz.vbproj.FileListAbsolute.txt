@@ -1,0 +1,12 @@
+E:\Project\BBI\BBI\Shipping\Shipping\ORM\ShippingBBIBiz\bin\ShippingBiz.dll
+E:\Project\BBI\BBI\Shipping\Shipping\ORM\ShippingBBIBiz\bin\ShippingBiz.xml
+E:\Project\BBI\BBI\Shipping\Shipping\ORM\ShippingBBIBiz\bin\OrmLib.dll
+E:\Project\BBI\BBI\Shipping\Shipping\ORM\ShippingBBIBiz\obj\Release\ResolveAssemblyReference.cache
+E:\Project\BBI\BBI\Shipping\Shipping\ORM\ShippingBBIBiz\obj\Release\ShippingBiz.dll
+E:\Project\BBI\BBI\Shipping\Shipping\ORM\ShippingBBIBiz\obj\Release\ShippingBiz.xml
+D:\Appu\Projects\ILSShipping\Shipping\ORM\ShippingBBIBiz\bin\ShippingBiz.dll
+D:\Appu\Projects\ILSShipping\Shipping\ORM\ShippingBBIBiz\bin\ShippingBiz.xml
+D:\Appu\Projects\ILSShipping\Shipping\ORM\ShippingBBIBiz\bin\OrmLib.dll
+D:\Appu\Projects\ILSShipping\Shipping\ORM\ShippingBBIBiz\obj\Release\ResolveAssemblyReference.cache
+D:\Appu\Projects\ILSShipping\Shipping\ORM\ShippingBBIBiz\obj\Release\ShippingBiz.dll
+D:\Appu\Projects\ILSShipping\Shipping\ORM\ShippingBBIBiz\obj\Release\ShippingBiz.xml

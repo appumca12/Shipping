@@ -1,0 +1,512 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{69F095A6-D5B0-450E-A81B-17BF7B113D52}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ApplicationIcon>
+    </ApplicationIcon>
+    <AssemblyKeyContainerName>
+    </AssemblyKeyContainerName>
+    <AssemblyName>ShippingBiz</AssemblyName>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+    <AssemblyOriginatorKeyMode>None</AssemblyOriginatorKeyMode>
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>Library</OutputType>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionStrict>Off</OptionStrict>
+    <RootNamespace>
+    </RootNamespace>
+    <StartupObject>
+    </StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <MyType>Windows</MyType>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>ShippingBiz.xml</DocumentationFile>
+    <BaseAddress>285212672</BaseAddress>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>
+    </DefineConstants>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <DebugSymbols>true</DebugSymbols>
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032,42353,42354,42355</NoWarn>
+    <DebugType>full</DebugType>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>ShippingBiz.xml</DocumentationFile>
+    <BaseAddress>285212672</BaseAddress>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>
+    </DefineConstants>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <DebugSymbols>false</DebugSymbols>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032,42353,42354,42355</NoWarn>
+    <DebugType>none</DebugType>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="OrmLib">
+      <Name>OrmLib</Name>
+      <HintPath>OrmLib.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AssemblyInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Config.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="do_not_edit\Business.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="do_not_edit\Collections.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="do_not_edit\CustomSetting.vb" />
+    <Compile Include="do_not_edit\DataManager.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="do_not_edit\DataSet.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="do_not_edit\FetchPath.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="do_not_edit\JoinPath.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="do_not_edit\Lookups.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="do_not_edit\StoredProcedures.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="do_not_edit\Tables.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="do_not_edit\Templates.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="sysdiagrams.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_AccessLevel.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_Account.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_Agents.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_AUTAdditionalDocs.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_AUTDummy.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_AUTDummyLog.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_AUTJobLogs.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_AUTJobLogsDetail.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_AUTJobs.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_autoLog.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_AUTSchedule.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_AUTSettings.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_Booking.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_BookingCns.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_BookingDeposits.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_BookingDetails.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_BookingReleasCntrs.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_BookingRelease.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_CalculationBase.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_ChgLevelDetails.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_ChgLevelMaster.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_Clients.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_Cluses.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_CODE.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_CodeMaster.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_Company.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_Country.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_CustomMenu.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_Damage.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_Deposits.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_DetentionBase.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_DetentionBaseDetails.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_Documets.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_DocumetsDetail.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_EcsContainers.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_EcsMoves.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_EcsReserveContainers.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_EventMail.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_Exchange.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_ExchangeDetails.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_ExpInvoice.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_ExpInvoiceDetails.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_ExpRecivedItems.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_FaxActions.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_FaxStatus.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_Inquery.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_InqueryDetails.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_Invoice.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_InvoiceDetails.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_InwardBLS.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_InwardBlsComments.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Tb_InwardBlsFrs.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_InwardBlsGoods.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_InwardBlsNames.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_InwardCharges.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_InwardCnsImco.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_InwardCnsPkgs.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_InwardCnsTemprature.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_InwardCntrs.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_InwardCntrsCharges.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_InwardDiscount.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_InwardStatus.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_ISOType.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_Lines.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_Log.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_LogDetails.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_LogMaster.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_MenuItems.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_NOSPaymentTyps.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_Objects.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_ObjectsUser.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_OutwardBLS.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_OutwardBlsComments.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Tb_OutwardBlsFrs.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_OutwardBlsGoods.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_OutwardBlsNames.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_OutwardBlsTemplate.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_OutwardCharges.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_OutwardCnsImco.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_OutwardCnsPkgs.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_OutwardCnsTemprature.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_OutwardCntrs.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_OutwardCntrsCharges.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_OutwardDiscount.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_PermitDetails.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_Permits.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_PInvoice.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_PInvoiceDetails.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_Ports.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_RecivedItems.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_Reference.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_ReleaseLetterSeq.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_ReportCustomFields.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_SCNIDS.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_Seq.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_SOF.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_TaxBase.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_Users.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_UsersDept.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_UsersLine.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_Vessels.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TB_Voyage.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <None Include="do_not_edit\61A01FF8-BB90-4943-9C82-BC74A22B75E6-161694-943597.xml">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="My Project\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,384 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Shipping
+</name>
+</assembly>
+<members>
+<member name="T:Shipping.DSPrintBL.BLDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Shipping.DSPrintBL.BLRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Shipping.DSPrintBL.BLRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Shipping.DSPrintBL">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Shipping.DSInwardDetn.ImpDetentionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Shipping.DSInwardDetn.ImpDetentionSubDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Shipping.DSInwardDetn.InwardSummaryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Shipping.DSInwardDetn.ImpDetentionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Shipping.DSInwardDetn.ImpDetentionSubRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Shipping.DSInwardDetn.InwardSummaryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Shipping.DSInwardDetn.ImpDetentionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Shipping.DSInwardDetn.ImpDetentionSubRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Shipping.DSInwardDetn.InwardSummaryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Shipping.DSInwardDetn">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.add_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.admin_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.applications_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.arrow_back_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.arrow_down_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.arrow_forward_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.arrow_up_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.calendar_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.cancel_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.chat_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.close_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.computer_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.confirm_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.contacts_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.control_forward_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.control_pause_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.control_play_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.control_reverse_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.control_skip_bw_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.control_skip_fw_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.control_stop_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.copy_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.cut_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.delete_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.disc_media_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.documents_16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.documents_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.edit_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.export_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.favorites_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.favorites_add_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.finance_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.folder_closed_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.folder_open_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.go_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.group_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.hard_disk_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.help_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.history_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.home_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.import_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.info_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.mail_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.movie_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.MSExcel2424">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.music_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.network_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.notes_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.paste_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.pictures_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.PLOGO">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.print_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.redo_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.refresh_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.report_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.save_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.search_16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.search_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.security_locked_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.security_unlocked_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.shopping_cart_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.stop_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.tdx_excel2424">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.trash_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.undo_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.user_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.vector_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.web_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.word">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.Word_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.zoom_in_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Shipping.My.Resources.Resources.zoom_out_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Shipping.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:Shipping.DataSetMnfCharges.TBChargesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Shipping.DataSetMnfCharges.TBChargesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Shipping.DataSetMnfCharges.TBChargesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Shipping.DataSetMnfCharges">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+</members>
+</doc>

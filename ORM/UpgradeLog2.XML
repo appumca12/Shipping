@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ShippingData">
+</Property><Property Name="Solution File" Value="E:\Project\BBI\BBI\Shipping\Shipping\ORM\ShippingData.sln">
+</Property><Property Name="Date" Value="Saturday, May 23, 2015">
+</Property><Property Name="Time" Value="10:32 AM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="ShippingBBIBiz" Source="ShippingBBIBiz\ShippingBBIBiz.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ShippingBBIBiz" Source="ShippingBBIBiz\ShippingBBIBiz.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TestApp" Source="TestApp\TestApp.vbproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="TestApp" Source="TestApp\TestApp.vbproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="ShippingData.sln" Description="The solution file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="" Source="ShippingData.sln" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="ShippingBBIBiz" Source="ShippingBBIBiz\ShippingBBIBiz.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,2618 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{EEB556E4-39C2-44BC-A9A8-9EC037D624E3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Shipping.My.MyApplication</StartupObject>
+    <RootNamespace>Shipping</RootNamespace>
+    <AssemblyName>Shipping</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Text</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <ManifestCertificateThumbprint>0D759E7BB3C9C704C695F12E59DC9A9CCC323EFA</ManifestCertificateThumbprint>
+    <ManifestKeyFile>Shipping_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>true</GenerateManifests>
+    <SignManifests>false</SignManifests>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <BootstrapperComponentsLocation>Relative</BootstrapperComponentsLocation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Shipping.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+    <PlatformTarget>x86</PlatformTarget>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Shipping.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+    <PlatformTarget>x86</PlatformTarget>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Aspose.BarCode, Version=6.4.0.0, Culture=neutral, PublicKeyToken=00725b1ceb58d0a9, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Tools\Aspose.Total for .NET 2014-07-06 - www.vatandownload.com\net3.5\Aspose.BarCode.dll</HintPath>
+    </Reference>
+    <Reference Include="Aspose.Cells, Version=5.2.0.0, Culture=neutral, PublicKeyToken=716fcc553a201e56, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>DLLS\Aspose.Cells.dll</HintPath>
+    </Reference>
+    <Reference Include="Aspose.Words, Version=9.6.0.0, Culture=neutral, PublicKeyToken=716fcc553a201e56, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>DLLS\Aspose.Words.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Data.AdoDotNetInterop, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.VSDesigner, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Web, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="Infragistics2.Documents.v10.2, Version=10.2.20102.1004, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>DLLS\Infragistics2.Documents.v10.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics2.Excel.v10.2, Version=10.2.20102.1004, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>DLLS\Infragistics2.Excel.v10.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics2.Shared.v10.2, Version=10.2.20102.1004, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>DLLS\Infragistics2.Shared.v10.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics2.Win.AppStylistSupport.v10.2, Version=10.2.20102.1004, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>DLLS\Infragistics2.Win.AppStylistSupport.v10.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics2.Win.Misc.v10.2, Version=10.2.20102.1004, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>DLLS\Infragistics2.Win.Misc.v10.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics2.Win.SupportDialogs.v10.2, Version=10.2.20102.1004, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>DLLS\Infragistics2.Win.SupportDialogs.v10.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics2.Win.UltraChart.v10.2.Design, Version=10.2.20102.1004, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>DLLS\Infragistics2.Win.UltraChart.v10.2.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics2.Win.UltraGauge.v10.2.Design, Version=10.2.20102.1004, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>DLLS\Infragistics2.Win.UltraGauge.v10.2.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics2.Win.UltraWinCalcManager.v10.2, Version=10.2.20102.1004, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>DLLS\Infragistics2.Win.UltraWinCalcManager.v10.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics2.Win.UltraWinCalcManager.v10.2.FormulaBuilder, Version=10.2.20102.1004, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>DLLS\Infragistics2.Win.UltraWinCalcManager.v10.2.FormulaBuilder.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics2.Win.UltraWinChart.v10.2, Version=10.2.20102.1004, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>DLLS\Infragistics2.Win.UltraWinChart.v10.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics2.Win.UltraWinDataSource.v10.2, Version=10.2.20102.1004, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>DLLS\Infragistics2.Win.UltraWinDataSource.v10.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics2.Win.UltraWinDock.v10.2, Version=10.2.20102.1004, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>DLLS\Infragistics2.Win.UltraWinDock.v10.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics2.Win.UltraWinEditors.v10.2, Version=10.2.20102.1004, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>DLLS\Infragistics2.Win.UltraWinEditors.v10.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics2.Win.UltraWinExplorerBar.v10.2, Version=10.2.20102.1004, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>DLLS\Infragistics2.Win.UltraWinExplorerBar.v10.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics2.Win.UltraWinGanttView.v10.2, Version=10.2.20102.1004, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>DLLS\Infragistics2.Win.UltraWinGanttView.v10.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics2.Win.UltraWinGauge.v10.2, Version=10.2.20102.1004, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>DLLS\Infragistics2.Win.UltraWinGauge.v10.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics2.Win.UltraWinGrid.ExcelExport.v10.2, Version=10.2.20102.1004, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>DLLS\Infragistics2.Win.UltraWinGrid.ExcelExport.v10.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics2.Win.UltraWinGrid.v10.2, Version=10.2.20102.1004, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>DLLS\Infragistics2.Win.UltraWinGrid.v10.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics2.Win.UltraWinInkProvider.Ink17.v10.2, Version=10.2.20102.1004, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>DLLS\Infragistics2.Win.UltraWinInkProvider.Ink17.v10.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics2.Win.UltraWinInkProvider.v10.2, Version=10.2.20102.1004, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>DLLS\Infragistics2.Win.UltraWinInkProvider.v10.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics2.Win.UltraWinListBar.v10.2, Version=10.2.20102.1004, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>DLLS\Infragistics2.Win.UltraWinListBar.v10.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics2.Win.UltraWinListView.v10.2, Version=10.2.20102.1004, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>DLLS\Infragistics2.Win.UltraWinListView.v10.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics2.Win.UltraWinMaskedEdit.v10.2, Version=10.2.20102.1004, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>DLLS\Infragistics2.Win.UltraWinMaskedEdit.v10.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics2.Win.UltraWinPrintPreviewDialog.v10.2, Version=10.2.20102.1004, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>DLLS\Infragistics2.Win.UltraWinPrintPreviewDialog.v10.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics2.Win.UltraWinSchedule.v10.2, Version=10.2.20102.1004, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>DLLS\Infragistics2.Win.UltraWinSchedule.v10.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics2.Win.UltraWinSpellChecker.v10.2, Version=10.2.20102.1004, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>DLLS\Infragistics2.Win.UltraWinSpellChecker.v10.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics2.Win.UltraWinStatusBar.v10.2, Version=10.2.20102.1004, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>DLLS\Infragistics2.Win.UltraWinStatusBar.v10.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics2.Win.UltraWinTabbedMdi.v10.2, Version=10.2.20102.1004, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>DLLS\Infragistics2.Win.UltraWinTabbedMdi.v10.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics2.Win.UltraWinTabControl.v10.2, Version=10.2.20102.1004, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>DLLS\Infragistics2.Win.UltraWinTabControl.v10.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics2.Win.UltraWinToolbars.v10.2, Version=10.2.20102.1004, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>DLLS\Infragistics2.Win.UltraWinToolbars.v10.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics2.Win.UltraWinTree.v10.2, Version=10.2.20102.1004, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>DLLS\Infragistics2.Win.UltraWinTree.v10.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics2.Win.v10.2, Version=10.2.20102.1004, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>DLLS\Infragistics2.Win.v10.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics2.Win.v10.2.Design, Version=10.2.20102.1004, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>DLLS\Infragistics2.Win.v10.2.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics3.Excel.v10.2, Version=10.2.20102.1004, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>DLLS\Infragistics3.Excel.v10.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="msmdvbanet, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="OrmLib, Version=1.7.2.17119, Culture=neutral, PublicKeyToken=71233784d1b7e546, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\OrmLib.dll</HintPath>
+    </Reference>
+    <Reference Include="ShippingBiz, Version=1.0.8148.25098, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>ORM\ShippingBBIBiz\bin\ShippingBiz.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Extensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Windows\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="Xceed.FileSystem, Version=3.3.7074.15400, Culture=neutral, PublicKeyToken=ba83ff368b7563c6, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>DLLS\Xceed.FileSystem.dll</HintPath>
+    </Reference>
+    <Reference Include="Xceed.Ftp, Version=3.3.7074.15400, Culture=neutral, PublicKeyToken=ba83ff368b7563c6, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>DLLS\Xceed.Ftp.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BBI\NOSA\CLNosa.vb" />
+    <Compile Include="BBI\NOSA\FrmNosaGenerateVCExp.Designer.vb">
+      <DependentUpon>FrmNosaGenerateVCExp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BBI\NOSA\FrmNosaGenerateVCExp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BBI\NOSA\FrmNosaAccount.Designer.vb">
+      <DependentUpon>FrmNosaAccount.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BBI\NOSA\FrmNosaAccount.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BBI\NOSA\FrmNosaAccountExp.Designer.vb">
+      <DependentUpon>FrmNosaAccountExp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BBI\NOSA\FrmNosaAccountExp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BBI\NOSA\FrmNosaConfirm.Designer.vb">
+      <DependentUpon>FrmNosaConfirm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BBI\NOSA\FrmNosaConfirm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BBI\NOSA\FrmNosaGenerateVC.Designer.vb">
+      <DependentUpon>FrmNosaGenerateVC.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BBI\NOSA\FrmNosaGenerateVC.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IFGeneral.vb" />
+    <Compile Include="BBI\FrmWHLMapping.Designer.vb">
+      <DependentUpon>FrmWHLMapping.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BBI\FrmWHLMapping.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BBI\Mapping\FrmWHlMappingOutward.Designer.vb">
+      <DependentUpon>FrmWHlMappingOutward.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BBI\Mapping\FrmWHlMappingOutward.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BBI\Mapping\WHLEDI.vb" />
+    <Compile Include="BBI\Mapping\WHLEDIGen.vb" />
+    <Compile Include="BBI\Mapping\WHLGeneral.vb" />
+    <Compile Include="ShippingGeneral\Forms\Account\FrmCollectionReport.Designer.vb">
+      <DependentUpon>FrmCollectionReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Account\FrmCollectionReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Account\FrmInwardInvoice.Designer.vb">
+      <DependentUpon>FrmInwardInvoice.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Account\FrmInwardInvoice.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Account\FrmLocationWiseReport.Designer.vb">
+      <DependentUpon>FrmLocationWiseReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Account\FrmLocationWiseReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Account\FrmGuaranteedCheque.Designer.vb">
+      <DependentUpon>FrmGuaranteedCheque.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Account\FrmGuaranteedCheque.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Account\frmChargewiseReport.Designer.vb">
+      <DependentUpon>frmChargewiseReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Account\frmChargewiseReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Account\frmCustomerBalanceAccount.Designer.vb">
+      <DependentUpon>frmCustomerBalanceAccount.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Account\frmCustomerBalanceAccount.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Account\FrmAgentDemurageReport.Designer.vb">
+      <DependentUpon>FrmAgentDemurageReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Account\FrmAgentDemurageReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Account\frmExportInvoices.Designer.vb">
+      <DependentUpon>frmExportInvoices.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Account\frmExportInvoices.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Account\FrmCustomerDemurageReport.Designer.vb">
+      <DependentUpon>FrmCustomerDemurageReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Account\FrmCustomerDemurageReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Account\FrmDemurrageControlReport.Designer.vb">
+      <DependentUpon>FrmDemurrageControlReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Account\FrmDemurrageControlReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Account\FrmDetentionOutStandingSummary.Designer.vb">
+      <DependentUpon>FrmDetentionOutStandingSummary.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Account\FrmDetentionOutStandingSummary.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Account\FrmExportDetentionReport.Designer.vb">
+      <DependentUpon>FrmExportDetentionReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Account\FrmExportDetentionReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Account\frmIGCReport.Designer.vb">
+      <DependentUpon>frmIGCReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Account\frmIGCReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Account\MailUser.Designer.vb">
+      <DependentUpon>MailUser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Account\MailUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\ECS\FrmDamageBoxCost.Designer.vb">
+      <DependentUpon>FrmDamageBoxCost.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\ECS\FrmDamageBoxCost.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\ECS\FrmECSGeneralDOReport.designer.vb">
+      <DependentUpon>FrmECSGeneralDOReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\ECS\FrmECSGeneralDOReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\ECS\FrmMAMovementFCS.Designer.vb">
+      <DependentUpon>FrmMAMovementFCS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\ECS\FrmMAMovementFCS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\ECS\FrmMAMovement.Designer.vb">
+      <DependentUpon>FrmMAMovement.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\ECS\FrmMAMovement.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\ECS\FrmDuplicateFreeDays.Designer.vb">
+      <DependentUpon>FrmDuplicateFreeDays.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\ECS\FrmDuplicateFreeDays.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\ECS\FrmECSImportShipmentDetails.Designer.vb">
+      <DependentUpon>FrmECSImportShipmentDetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\ECS\FrmECSImportShipmentDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\ECS\FrmECSImportShipmentDetailsDO.Designer.vb">
+      <DependentUpon>FrmECSImportShipmentDetailsDO.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\ECS\FrmECSImportShipmentDetailsDO.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\About.Designer.vb">
+      <DependentUpon>About.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\About.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmTAPDetentionChrg.Designer.vb">
+      <DependentUpon>FrmTAPDetentionChrg.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmTAPDetentionChrg.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmAgentStatusLock.Designer.vb">
+      <DependentUpon>FrmAgentStatusLock.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmAgentStatusLock.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmClientStatusLock.Designer.vb">
+      <DependentUpon>FrmClientStatusLock.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmClientStatusLock.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmEcsBank.Designer.vb">
+      <DependentUpon>FrmEcsBank.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmEcsBank.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmEcsBankImport.Designer.vb">
+      <DependentUpon>FrmEcsBankImport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmEcsBankImport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmEcsImportDialog.Designer.vb">
+      <DependentUpon>FrmEcsImportDialog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmEcsImportDialog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Inward\FrmDODelete.Designer.vb">
+      <DependentUpon>FrmDODelete.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Inward\FrmDODelete.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Inward\FrmEDI.Designer.vb">
+      <DependentUpon>FrmEDI.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Inward\FrmEDI.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Inward\FrmInwardDuplicateFreeDays.Designer.vb">
+      <DependentUpon>FrmInwardDuplicateFreeDays.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Inward\FrmInwardDuplicateFreeDays.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Inward\FrmInwardPackageDetails.Designer.vb">
+      <DependentUpon>FrmInwardPackageDetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Inward\FrmInwardPackageDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Outward\FrmBarcodeIssuedBls.Designer.vb">
+      <DependentUpon>FrmBarcodeIssuedBls.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Outward\FrmBarcodeIssuedBls.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Outward\FrmDGShipment.Designer.vb">
+      <DependentUpon>FrmDGShipment.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Outward\FrmDGShipment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Outward\FrmPermitSplitOutward.Designer.vb">
+      <DependentUpon>FrmPermitSplitOutward.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Outward\FrmPermitSplitOutward.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Outward\FrmBookingReport.Designer.vb">
+      <DependentUpon>FrmBookingReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Outward\FrmBookingReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Reports\BL.vb">
+      <DependentUpon>BL.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="ShippingGeneral\Reports\BLBlank.vb">
+      <DependentUpon>BLBlank.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="ShippingGeneral\Class\ClDetentionNew.vb" />
+    <Compile Include="ShippingGeneral\Class\DPA\CLDPAStructure.vb" />
+    <Compile Include="ShippingGeneral\Class\DPA\CLGenerateDPA.vb" />
+    <Compile Include="ShippingGeneral\Class\Inward\CLArrivalNotice.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="BBI\NOSA\CLNosaVocher.vb" />
+    <Compile Include="ShippingGeneral\Class\Misc\CLEditTextFormat.vb" />
+    <Compile Include="ShippingGeneral\Datasets\DSInwardDetn.vb">
+      <DependentUpon>DSInwardDetn.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Datasets\DSMnfCharges.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DSMnfCharges.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Datasets\DSInwardDetn.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DSInwardDetn.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Datasets\DSPrintBL.Designer.vb" />
+    <Compile Include="ShippingGeneral\Forms\Account\FrmAccGnrlReport.Designer.vb">
+      <DependentUpon>FrmAccGnrlReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Account\FrmAccGnrlReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Account\FrmGroupInvoice.Designer.vb">
+      <DependentUpon>FrmGroupInvoice.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Account\FrmGroupInvoice.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Account\FrmGroupRcvd.Designer.vb">
+      <DependentUpon>FrmGroupRcvd.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Account\FrmGroupRcvd.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmAgents.Designer.vb">
+      <DependentUpon>FrmAgents.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmAgents.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="ShippingGeneral\Class\CLCntrCount.vb" />
+    <Compile Include="ShippingGeneral\Class\ClGenerateInvoiceOfficial.vb" />
+    <Compile Include="ShippingGeneral\Class\CLMemo.vb" />
+    <Compile Include="ShippingGeneral\Class\CLPrintHdr.vb" />
+    <Compile Include="ShippingGeneral\Class\Inward\CLBLPrint.vb" />
+    <Compile Include="ShippingGeneral\Class\Inward\CLDetention.vb" />
+    <Compile Include="ShippingGeneral\Class\Inward\ClDetentionPerCntr.vb" />
+    <Compile Include="ShippingGeneral\Class\Inward\CLInwardBlsHeader.vb" />
+    <Compile Include="ShippingGeneral\Class\Inward\CLInwardBlsSummary.vb" />
+    <Compile Include="ShippingGeneral\Class\Inward\CLInwardChecking.vb" />
+    <Compile Include="ShippingGeneral\Class\Inward\CLInwardManifest.vb" />
+    <Compile Include="ShippingGeneral\Class\Inward\Copran.vb" />
+    <Compile Include="ShippingGeneral\Class\Inward\XMLEDI.vb" />
+    <Compile Include="ShippingGeneral\Class\Misc\CLCalculationBase.vb" />
+    <Compile Include="ShippingGeneral\Class\Misc\CLGeneralForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Class\Misc\EDIFACTToTable.vb" />
+    <Compile Include="ShippingGeneral\Class\Misc\FTP.vb" />
+    <Compile Include="ShippingGeneral\Class\Outward\CLBookingCost.vb" />
+    <Compile Include="ShippingGeneral\Class\Outward\CLDeparturCost.vb" />
+    <Compile Include="ShippingGeneral\Class\Outward\ClDetentionOutward.vb" />
+    <Compile Include="ShippingGeneral\Class\Outward\CLExpInvoice.vb" />
+    <Compile Include="ShippingGeneral\Class\Outward\CLOutwardBlsSummary.vb" />
+    <Compile Include="ShippingGeneral\Class\Outward\CLOutwardManifest.vb" />
+    <Compile Include="ShippingGeneral\Class\Outward\CLPermitManifest.vb" />
+    <Compile Include="ShippingGeneral\Class\Outward\CLTctsMapLoad.vb" />
+    <Compile Include="ShippingGeneral\Forms\Account\FrmAccountTitle.Designer.vb">
+      <DependentUpon>FrmAccountTitle.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Account\FrmAccountTitle.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Account\FrmDeposits.Designer.vb">
+      <DependentUpon>FrmDeposits.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Account\FrmDeposits.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Account\FrmInvoiceEdit.Designer.vb">
+      <DependentUpon>FrmInvoiceEdit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Account\FrmInvoiceEdit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Account\FrmInvoiceTrace.Designer.vb">
+      <DependentUpon>FrmInvoiceTrace.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Account\FrmInvoiceTrace.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Account\FrmOutwardInvoice.designer.vb">
+      <DependentUpon>FrmOutwardInvoice.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Account\FrmOutwardInvoice.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Account\FrmRecivedItems.Designer.vb">
+      <DependentUpon>FrmRecivedItems.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Account\FrmRecivedItems.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Account\FrmVoyageSummary.Designer.vb">
+      <DependentUpon>FrmVoyageSummary.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Account\FrmVoyageSummary.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Account\FrmVoyageSummaryExp.Designer.vb">
+      <DependentUpon>FrmVoyageSummaryExp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Account\FrmVoyageSummaryExp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\ECS\FrmEcs.Designer.vb">
+      <DependentUpon>FrmEcs.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\ECS\FrmEcs.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\ECS\FrmEcsApplyFC.Designer.vb">
+      <DependentUpon>FrmEcsApplyFC.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\ECS\FrmEcsApplyFC.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\ECS\FrmEcsBatch.Designer.vb">
+      <DependentUpon>FrmEcsBatch.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\ECS\FrmEcsBatch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\ECS\FrmEcsCodecoApply.Designer.vb">
+      <DependentUpon>FrmEcsCodecoApply.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\ECS\FrmEcsCodecoApply.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\ECS\FrmEcsImport.Designer.vb">
+      <DependentUpon>FrmEcsImport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\ECS\FrmEcsImport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\ECS\FrmEcsReports.Designer.vb">
+      <DependentUpon>FrmEcsReports.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\ECS\FrmEcsReports.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\ECS\FrmEcsWHLReports.Designer.vb">
+      <DependentUpon>FrmEcsWHLReports.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\ECS\FrmEcsWHLReports.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\ECS\FrmShowDamage.Designer.vb">
+      <DependentUpon>FrmShowDamage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\ECS\FrmShowDamage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\ECS\FrmShowImage.Designer.vb">
+      <DependentUpon>FrmShowImage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\ECS\FrmShowImage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\CustomColumnChooser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmAboutBox.Designer.vb">
+      <DependentUpon>FrmAboutBox.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmAboutBox.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmActivity.Designer.vb">
+      <DependentUpon>FrmActivity.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmActivity.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmBLCharges.Designer.vb">
+      <DependentUpon>FrmBLCharges.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmBLCharges.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmBlPrintDef.Designer.vb">
+      <DependentUpon>FrmBlPrintDef.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmBlPrintDef.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmCalculationBase.Designer.vb">
+      <DependentUpon>FrmCalculationBase.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmCalculationBase.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmChangeLineDialog.Designer.vb">
+      <DependentUpon>FrmChangeLineDialog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmChangeLineDialog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmClientDialog.Designer.vb">
+      <DependentUpon>FrmClientDialog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmClientDialog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmClientMerge.Designer.vb">
+      <DependentUpon>FrmClientMerge.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmClientMerge.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmClients.Designer.vb">
+      <DependentUpon>FrmClients.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmClients.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmCluses.Designer.vb">
+      <DependentUpon>FrmCluses.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmCluses.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmComments.Designer.vb">
+      <DependentUpon>FrmComments.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmComments.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmCompany.Designer.vb">
+      <DependentUpon>FrmCompany.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmCompany.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmCustomColumnChooser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmCustomReportItem.Designer.vb">
+      <DependentUpon>FrmCustomReportItem.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmCustomReportItem.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmDetentionBase.Designer.vb">
+      <DependentUpon>FrmDetentionBase.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmDetentionBase.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmDialogPrint.Designer.vb">
+      <DependentUpon>FrmDialogPrint.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmDialogPrint.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmDialogShowGrid.Designer.vb">
+      <DependentUpon>FrmDialogShowGrid.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmDialogShowGrid.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmExchange.Designer.vb">
+      <DependentUpon>FrmExchange.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmExchange.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmGeneralReportShow.Designer.vb">
+      <DependentUpon>FrmGeneralReportShow.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmGeneralReportShow.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmGeneralSearch.Designer.vb">
+      <DependentUpon>FrmGeneralSearch.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmGeneralSearch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmGenXML.Designer.vb">
+      <DependentUpon>FrmGenXML.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmGenXML.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmInwardStatus.Designer.vb">
+      <DependentUpon>FrmInwardStatus.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmInwardStatus.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmLines.Designer.vb">
+      <DependentUpon>FrmLines.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmLines.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmLogon.Designer.vb">
+      <DependentUpon>FrmLogon.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmLogon.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmLogView.Designer.vb">
+      <DependentUpon>FrmLogView.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmLogView.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmLogViewByID.Designer.vb">
+      <DependentUpon>FrmLogViewByID.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmLogViewByID.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmMapEDI.Designer.vb">
+      <DependentUpon>FrmMapEDI.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmMapEDI.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmPMain.Designer.vb">
+      <DependentUpon>FrmPMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmPMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmPortDialog.Designer.vb">
+      <DependentUpon>FrmPortDialog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmPortDialog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmPorts.Designer.vb">
+      <DependentUpon>FrmPorts.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmPorts.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmRaiseError.Designer.vb">
+      <DependentUpon>FrmRaiseError.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmRaiseError.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmReferences.Designer.vb">
+      <DependentUpon>FrmReferences.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmReferences.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmSetelment.Designer.vb">
+      <DependentUpon>FrmSetelment.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmSetelment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmShowDocuments.Designer.vb">
+      <DependentUpon>FrmShowDocuments.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmShowDocuments.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmSof.Designer.vb">
+      <DependentUpon>FrmSof.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmSof.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmStatestical.Designer.vb">
+      <DependentUpon>FrmStatestical.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmStatestical.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmStatesticalExp.Designer.vb">
+      <DependentUpon>FrmStatesticalExp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmStatesticalExp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmTaxBase.Designer.vb">
+      <DependentUpon>FrmTaxBase.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmTaxBase.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmTemp.Designer.vb">
+      <DependentUpon>FrmTemp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmTemp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmTempalte.Designer.vb">
+      <DependentUpon>FrmTempalte.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmTempalte.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmTraceBls.Designer.vb">
+      <DependentUpon>FrmTraceBls.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmTraceBls.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmUsers.Designer.vb">
+      <DependentUpon>FrmUsers.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmUsers.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmVesselList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmVessels.Designer.vb">
+      <DependentUpon>FrmVessels.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmVessels.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmVoyage.designer.vb">
+      <DependentUpon>FrmVoyage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\FrmVoyage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\NewColumnDialog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\xxBLTools.Designer.vb">
+      <DependentUpon>xxBLTools.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\General\xxBLTools.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Inward\FrmBLTools.Designer.vb">
+      <DependentUpon>FrmBLTools.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Inward\FrmBLTools.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Inward\FrmDOPrint.Designer.vb">
+      <DependentUpon>FrmDOPrint.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Inward\FrmDOPrint.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Inward\FrmImco.Designer.vb">
+      <DependentUpon>FrmImco.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Inward\FrmImco.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Inward\FrmInquery.Designer.vb">
+      <DependentUpon>FrmInquery.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Inward\FrmInquery.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Inward\FrmInqueryCheckList.Designer.vb">
+      <DependentUpon>FrmInqueryCheckList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Inward\FrmInqueryCheckList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Inward\FrmInwardBls.Designer.vb">
+      <DependentUpon>FrmInwardBls.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Inward\FrmInwardBls.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Inward\FrmInwardDiscount.Designer.vb">
+      <DependentUpon>FrmInwardDiscount.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Inward\FrmInwardDiscount.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Inward\FrmInwardGenaralList.designer.vb">
+      <DependentUpon>FrmInwardGenaralList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Inward\FrmInwardGenaralList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Inward\FrmInwardGenaralListDate.designer.vb">
+      <DependentUpon>FrmInwardGenaralListDate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Inward\FrmInwardGenaralListDate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Inward\FrmInwardSearch.Designer.vb">
+      <DependentUpon>FrmInwardSearch.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Inward\FrmInwardSearch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Inward\FrmSendDocument.Designer.vb">
+      <DependentUpon>FrmSendDocument.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Inward\FrmSendDocument.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Inward\FrmWditPortWrongList.Designer.vb">
+      <DependentUpon>FrmWditPortWrongList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Inward\FrmWditPortWrongList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Outward\FrmAssignVoyExportCntrs.Designer.vb">
+      <DependentUpon>FrmAssignVoyExportCntrs.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Outward\FrmAssignVoyExportCntrs.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Outward\FrmBLToolsOutward.Designer.vb">
+      <DependentUpon>FrmBLToolsOutward.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Outward\FrmBLToolsOutward.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Outward\FrmBooking.Designer.vb">
+      <DependentUpon>FrmBooking.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Outward\FrmBooking.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Outward\FrmBookingCntrs.Designer.vb">
+      <DependentUpon>FrmBookingCntrs.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Outward\FrmBookingCntrs.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Outward\FrmBookingMerge.Designer.vb">
+      <DependentUpon>FrmBookingMerge.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Outward\FrmBookingMerge.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Outward\FrmBookingReleaseRequest.Designer.vb">
+      <DependentUpon>FrmBookingReleaseRequest.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Outward\FrmBookingReleaseRequest.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Outward\FrmBookingTrace.Designer.vb">
+      <DependentUpon>FrmBookingTrace.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Outward\FrmBookingTrace.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Outward\FrmOutwardBls.designer.vb">
+      <DependentUpon>FrmOutwardBls.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Outward\FrmOutwardBls.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Outward\FrmOutwardDiscount.Designer.vb">
+      <DependentUpon>FrmOutwardDiscount.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Outward\FrmOutwardDiscount.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Outward\FrmOutwardGenaralList.designer.vb">
+      <DependentUpon>FrmOutwardGenaralList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Outward\FrmOutwardGenaralList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Outward\FrmoutwardGenaralListDate.designer.vb">
+      <DependentUpon>FrmoutwardGenaralListDate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Outward\FrmoutwardGenaralListDate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Outward\FrmOutwardSearch.Designer.vb">
+      <DependentUpon>FrmOutwardSearch.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Outward\FrmOutwardSearch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Outward\FrmOutwardTempalte.Designer.vb">
+      <DependentUpon>FrmOutwardTempalte.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Outward\FrmOutwardTempalte.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Outward\FrmPermits.Designer.vb">
+      <DependentUpon>FrmPermits.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Outward\FrmPermits.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Outward\FrmPermitTools.Designer.vb">
+      <DependentUpon>FrmPermitTools.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Outward\FrmPermitTools.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Outward\FrmReleaseLetter.Designer.vb">
+      <DependentUpon>FrmReleaseLetter.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Outward\FrmReleaseLetter.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Outward\FrmSalesActivity.Designer.vb">
+      <DependentUpon>FrmSalesActivity.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Outward\FrmSalesActivity.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Outward\FrmSearchAdvanceOut.Designer.vb">
+      <DependentUpon>FrmSearchAdvanceOut.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\Forms\Outward\FrmSearchAdvanceOut.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Module\EDICls.vb" />
+    <Compile Include="ShippingGeneral\Module\General.vb" />
+    <Compile Include="ShippingGeneral\Module\GridTools.vb" />
+    <Compile Include="ShippingGeneral\Module\IsoCntr.vb" />
+    <Compile Include="ShippingGeneral\Module\ModulGetData.vb" />
+    <Compile Include="ShippingGeneral\Module\VBFarsiDate.vb" />
+    <Compile Include="ShippingGeneral\Reports\RptInvoiceIWS.vb">
+      <DependentUpon>RptInvoiceIWS.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="ShippingGeneral\Reports\OldRptBooking1.vb">
+      <DependentUpon>OldRptBooking.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="ShippingGeneral\Reports\PCLRptExpLoadList1.vb">
+      <DependentUpon>PCLRptExpLoadList.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="ShippingGeneral\Reports\Rpt1.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Rpt1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Reports\RptArrivalNotice1.vb">
+      <DependentUpon>RptArrivalNotice.rpt</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Reports\RptBL1.vb">
+      <DependentUpon>RptBL.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="ShippingGeneral\Reports\RptBlAttachment.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RptBlAttachment.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Reports\RPTBLNew2.vb">
+      <DependentUpon>RPTBLNew.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="ShippingGeneral\Reports\RPTBLNewAtch2.vb">
+      <DependentUpon>RPTBLNewAtch.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="ShippingGeneral\Reports\RptBooking2.vb">
+      <DependentUpon>RptBooking.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="ShippingGeneral\Reports\RptBookingMemo2.vb">
+      <DependentUpon>RptBookingMemo.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="ShippingGeneral\Reports\RptDCR2.vb">
+      <DependentUpon>RptDCR.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="ShippingGeneral\Reports\RptDeposit2.vb">
+      <DependentUpon>RptDeposit.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="ShippingGeneral\Reports\RptDO2.vb">
+      <DependentUpon>RptDO.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="ShippingGeneral\Reports\RptExManifest2.vb">
+      <DependentUpon>RptExManifest.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="ShippingGeneral\Reports\RptFooter2.vb">
+      <DependentUpon>RptFooter.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="ShippingGeneral\Reports\RptHeaderLogoLS2.vb">
+      <DependentUpon>RptHeaderLogoLS.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="ShippingGeneral\Reports\RptHedaerLogo2.vb">
+      <DependentUpon>RptHedaerLogo.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="ShippingGeneral\Reports\RptInvoice2.vb">
+      <DependentUpon>RptInvoice.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="ShippingGeneral\Reports\RptInvoiceOfficial2.vb">
+      <DependentUpon>RptInvoiceOfficial.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="ShippingGeneral\Reports\RptInwardDetention.vb">
+      <DependentUpon>RptInwardDetention.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="ShippingGeneral\Reports\RptInwardMnfCover2.vb">
+      <DependentUpon>RptInwardMnfCover.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="ShippingGeneral\Reports\RptInwardSumm2.vb">
+      <DependentUpon>RptInwardSumm.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="ShippingGeneral\Reports\RptInwrdMnfst2.vb">
+      <DependentUpon>RptInwrdMnfst.rpt</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\Reports\RptOutwardDetention2.vb">
+      <DependentUpon>RptOutwardDetention.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="ShippingGeneral\Reports\RptTranshipBL2.vb">
+      <DependentUpon>RptTranshipBL.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserAgents.Designer.vb">
+      <DependentUpon>UserAgents.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserAgents.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\ThumbnailControl.designer.vb">
+      <DependentUpon>ThumbnailControl.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\ThumbnailControl.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserBlsCntrsPkg.Designer.vb">
+      <DependentUpon>UserBlsCntrsPkg.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserBlsCntrsPkg.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserBLMisc.Designer.vb">
+      <DependentUpon>UserBLMisc.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserBLMisc.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserBLPrint.Designer.vb">
+      <DependentUpon>UserBLPrint.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserBLPrint.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserBLS.Designer.vb">
+      <DependentUpon>UserBLS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserBLS.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserBlsCharges.Designer.vb">
+      <DependentUpon>UserBlsCharges.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserBlsCharges.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserBlsCntrs.Designer.vb">
+      <DependentUpon>UserBlsCntrs.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserBlsCntrs.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserBlsComments.Designer.vb">
+      <DependentUpon>UserBlsComments.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserBlsComments.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserBlsDocs.Designer.vb">
+      <DependentUpon>UserBlsDocs.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserBlsDocs.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserBlsFinancial.Designer.vb">
+      <DependentUpon>UserBlsFinancial.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserBlsFinancial.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserBlsGoods.Designer.vb">
+      <DependentUpon>UserBlsGoods.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserBlsGoods.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserBlsNamesExp.Designer.vb">
+      <DependentUpon>UserBlsNamesExp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserBlsNamesExp.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserBlsNames.Designer.vb">
+      <DependentUpon>UserBlsNames.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserBlsNames.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserBlsPersian.Designer.vb">
+      <DependentUpon>UserBlsPersian.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserBlsPersian.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserBookingNo.Designer.vb">
+      <DependentUpon>UserBookingNo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserBookingNo.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserBookingSearch.Designer.vb">
+      <DependentUpon>UserBookingSearch.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserBookingSearch.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserClients.Designer.vb">
+      <DependentUpon>UserClients.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserClients.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserClientText.Designer.vb">
+      <DependentUpon>UserClientText.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserClientText.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserComboCode.Designer.vb">
+      <DependentUpon>UserComboCode.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserComboCode.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserComboGnrl.Designer.vb">
+      <DependentUpon>UserComboGnrl.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserComboGnrl.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserComboVessel.Designer.vb">
+      <DependentUpon>UserComboVessel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserComboVessel.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserComboVoyage.Designer.vb">
+      <DependentUpon>UserComboVoyage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserComboVoyage.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserDetentionByDay.Designer.vb">
+      <DependentUpon>UserDetentionByDay.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserDetentionByDay.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserEcsCntrsInsert.Designer.vb">
+      <DependentUpon>UserEcsCntrsInsert.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserEcsCntrsInsert.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserFreeTime.Designer.vb">
+      <DependentUpon>UserFreeTime.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserFreeTime.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserGeneralForms.Designer.vb">
+      <DependentUpon>UserGeneralForms.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserGeneralForms.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserGnrlDate.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserImco.Designer.vb">
+      <DependentUpon>UserImco.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserImco.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserInfo.Designer.vb">
+      <DependentUpon>UserInfo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserInfo.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserMemo.Designer.vb">
+      <DependentUpon>UserMemo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserMemo.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserMenuItem.Designer.vb">
+      <DependentUpon>UserMenuItem.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserMenuItem.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserNavigate.Designer.vb">
+      <DependentUpon>UserNavigate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserNavigate.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserNum.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserOutwardBlsBookingNo.Designer.vb">
+      <DependentUpon>UserOutwardBlsBookingNo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserOutwardBlsBookingNo.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserPortCode.Designer.vb">
+      <DependentUpon>UserPortCode.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserPortCode.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserText.Designer.vb">
+      <DependentUpon>UserText.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserText.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserTextFarsi.Designer.vb">
+      <DependentUpon>UserTextFarsi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingGeneral\UserControls\UserTextFarsi.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="BBI\NOSA\FrmNosaGenerateVCExp.resx">
+      <DependentUpon>FrmNosaGenerateVCExp.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BBI\NOSA\FrmNosaAccount.resx">
+      <DependentUpon>FrmNosaAccount.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BBI\NOSA\FrmNosaAccountExp.resx">
+      <DependentUpon>FrmNosaAccountExp.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BBI\NOSA\FrmNosaConfirm.resx">
+      <DependentUpon>FrmNosaConfirm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BBI\NOSA\FrmNosaGenerateVC.resx">
+      <DependentUpon>FrmNosaGenerateVC.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BBI\FrmWHLMapping.resx">
+      <DependentUpon>FrmWHLMapping.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BBI\Mapping\FrmWHlMappingOutward.resx">
+      <DependentUpon>FrmWHlMappingOutward.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\Account\FrmCollectionReport.resx">
+      <DependentUpon>FrmCollectionReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\Account\FrmInwardInvoice.resx">
+      <DependentUpon>FrmInwardInvoice.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\Account\FrmLocationWiseReport.resx">
+      <DependentUpon>FrmLocationWiseReport.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\Account\FrmGuaranteedCheque.resx">
+      <DependentUpon>FrmGuaranteedCheque.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\Account\frmChargewiseReport.resx">
+      <DependentUpon>frmChargewiseReport.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\Account\frmCustomerBalanceAccount.resx">
+      <DependentUpon>frmCustomerBalanceAccount.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\Account\FrmAgentDemurageReport.resx">
+      <DependentUpon>FrmAgentDemurageReport.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\Account\frmExportInvoices.resx">
+      <DependentUpon>frmExportInvoices.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\Account\FrmCustomerDemurageReport.resx">
+      <DependentUpon>FrmCustomerDemurageReport.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\Account\FrmDemurrageControlReport.resx">
+      <DependentUpon>FrmDemurrageControlReport.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\Account\FrmDetentionOutStandingSummary.resx">
+      <DependentUpon>FrmDetentionOutStandingSummary.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\Account\FrmExportDetentionReport.resx">
+      <DependentUpon>FrmExportDetentionReport.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\Account\frmIGCReport.resx">
+      <DependentUpon>frmIGCReport.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\Account\MailUser.resx">
+      <DependentUpon>MailUser.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\ECS\FrmDamageBoxCost.resx">
+      <DependentUpon>FrmDamageBoxCost.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\ECS\FrmECSGeneralDOReport.resx">
+      <DependentUpon>FrmECSGeneralDOReport.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\ECS\FrmMAMovementFCS.resx">
+      <DependentUpon>FrmMAMovementFCS.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\ECS\FrmMAMovement.resx">
+      <DependentUpon>FrmMAMovement.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\ECS\FrmDuplicateFreeDays.resx">
+      <DependentUpon>FrmDuplicateFreeDays.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\ECS\FrmECSImportShipmentDetails.resx">
+      <DependentUpon>FrmECSImportShipmentDetails.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\ECS\FrmECSImportShipmentDetailsDO.resx">
+      <DependentUpon>FrmECSImportShipmentDetailsDO.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\General\About.resx">
+      <DependentUpon>About.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\General\FrmTAPDetentionChrg.resx">
+      <DependentUpon>FrmTAPDetentionChrg.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\General\FrmAgentStatusLock.resx">
+      <DependentUpon>FrmAgentStatusLock.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\General\FrmClientStatusLock.resx">
+      <DependentUpon>FrmClientStatusLock.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\General\FrmEcsBank.resx">
+      <DependentUpon>FrmEcsBank.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\General\FrmEcsBankImport.resx">
+      <DependentUpon>FrmEcsBankImport.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\General\FrmEcsImportDialog.resx">
+      <DependentUpon>FrmEcsImportDialog.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\Inward\FrmDODelete.resx">
+      <DependentUpon>FrmDODelete.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\Inward\FrmEDI.resx">
+      <DependentUpon>FrmEDI.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\Inward\FrmInwardDuplicateFreeDays.resx">
+      <DependentUpon>FrmInwardDuplicateFreeDays.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\Inward\FrmInwardPackageDetails.resx">
+      <DependentUpon>FrmInwardPackageDetails.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\Outward\FrmBarcodeIssuedBls.resx">
+      <DependentUpon>FrmBarcodeIssuedBls.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\Outward\FrmDGShipment.resx">
+      <DependentUpon>FrmDGShipment.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\Outward\FrmPermitSplitOutward.resx">
+      <DependentUpon>FrmPermitSplitOutward.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\Outward\FrmBookingReport.resx">
+      <DependentUpon>FrmBookingReport.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Reports\BL.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>BL.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Reports\BLBlank.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>BLBlank.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\Account\FrmAccGnrlReport.resx">
+      <DependentUpon>FrmAccGnrlReport.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\Account\FrmGroupInvoice.resx">
+      <DependentUpon>FrmGroupInvoice.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\Account\FrmGroupRcvd.resx">
+      <DependentUpon>FrmGroupRcvd.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\General\FrmAgents.resx">
+      <DependentUpon>FrmAgents.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Class\Misc\CLGeneralForm.resx">
+      <DependentUpon>CLGeneralForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\Account\FrmAccountTitle.resx">
+      <DependentUpon>FrmAccountTitle.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\Account\FrmDeposits.resx">
+      <DependentUpon>FrmDeposits.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\Account\FrmInvoiceEdit.resx">
+      <DependentUpon>FrmInvoiceEdit.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\Account\FrmInvoiceTrace.resx">
+      <DependentUpon>FrmInvoiceTrace.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\Account\FrmOutwardInvoice.resx">
+      <DependentUpon>FrmOutwardInvoice.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\Account\FrmRecivedItems.resx">
+      <DependentUpon>FrmRecivedItems.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\Account\FrmVoyageSummary.resx">
+      <DependentUpon>FrmVoyageSummary.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\Account\FrmVoyageSummaryExp.resx">
+      <DependentUpon>FrmVoyageSummaryExp.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\ECS\FrmEcs.resx">
+      <DependentUpon>FrmEcs.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\ECS\FrmEcsApplyFC.resx">
+      <DependentUpon>FrmEcsApplyFC.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\ECS\FrmEcsBatch.resx">
+      <DependentUpon>FrmEcsBatch.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\ECS\FrmEcsCodecoApply.resx">
+      <DependentUpon>FrmEcsCodecoApply.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\ECS\FrmEcsImport.resx">
+      <DependentUpon>FrmEcsImport.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\ECS\FrmEcsReports.resx">
+      <DependentUpon>FrmEcsReports.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\ECS\FrmEcsWHLReports.resx">
+      <DependentUpon>FrmEcsWHLReports.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\ECS\FrmShowDamage.resx">
+      <DependentUpon>FrmShowDamage.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\ECS\FrmShowImage.resx">
+      <DependentUpon>FrmShowImage.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\General\CustomColumnChooser.resx">
+      <DependentUpon>CustomColumnChooser.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\General\FrmAboutBox.resx">
+      <DependentUpon>FrmAboutBox.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\General\FrmActivity.resx">
+      <DependentUpon>FrmActivity.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\General\FrmBLCharges.resx">
+      <DependentUpon>FrmBLCharges.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\General\FrmBlPrintDef.resx">
+      <DependentUpon>FrmBlPrintDef.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\General\FrmCalculationBase.resx">
+      <DependentUpon>FrmCalculationBase.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\General\FrmChangeLineDialog.resx">
+      <DependentUpon>FrmChangeLineDialog.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\General\FrmClientDialog.resx">
+      <DependentUpon>FrmClientDialog.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\General\FrmClientMerge.resx">
+      <DependentUpon>FrmClientMerge.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\General\FrmClients.resx">
+      <DependentUpon>FrmClients.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\General\FrmCluses.resx">
+      <DependentUpon>FrmCluses.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\General\FrmComments.resx">
+      <DependentUpon>FrmComments.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\General\FrmCompany.resx">
+      <DependentUpon>FrmCompany.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\General\FrmCustomColumnChooser.resx">
+      <DependentUpon>FrmCustomColumnChooser.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\General\FrmCustomReportItem.resx">
+      <DependentUpon>FrmCustomReportItem.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\General\FrmDetentionBase.resx">
+      <DependentUpon>FrmDetentionBase.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\General\FrmDialogPrint.resx">
+      <DependentUpon>FrmDialogPrint.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\General\FrmDialogShowGrid.resx">
+      <DependentUpon>FrmDialogShowGrid.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\General\FrmExchange.resx">
+      <DependentUpon>FrmExchange.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\General\FrmGeneralReportShow.resx">
+      <DependentUpon>FrmGeneralReportShow.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\General\FrmGeneralSearch.resx">
+      <DependentUpon>FrmGeneralSearch.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\General\FrmGenXML.resx">
+      <DependentUpon>FrmGenXML.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\General\FrmInwardStatus.resx">
+      <DependentUpon>FrmInwardStatus.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\General\FrmLines.resx">
+      <DependentUpon>FrmLines.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\General\FrmLogon.resx">
+      <DependentUpon>FrmLogon.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\General\FrmLogView.resx">
+      <DependentUpon>FrmLogView.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\General\FrmLogViewByID.resx">
+      <DependentUpon>FrmLogViewByID.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\General\FrmMapEDI.resx">
+      <DependentUpon>FrmMapEDI.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\General\FrmPMain.resx">
+      <DependentUpon>FrmPMain.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\General\FrmPortDialog.resx">
+      <DependentUpon>FrmPortDialog.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\General\FrmPorts.resx">
+      <DependentUpon>FrmPorts.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\General\FrmRaiseError.resx">
+      <DependentUpon>FrmRaiseError.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\General\FrmReferences.resx">
+      <DependentUpon>FrmReferences.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\General\FrmSetelment.resx">
+      <DependentUpon>FrmSetelment.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\General\FrmShowDocuments.resx">
+      <DependentUpon>FrmShowDocuments.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\General\FrmSof.resx">
+      <DependentUpon>FrmSof.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\General\FrmStatestical.resx">
+      <DependentUpon>FrmStatestical.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\General\FrmStatesticalExp.resx">
+      <DependentUpon>FrmStatesticalExp.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\General\FrmTaxBase.resx">
+      <DependentUpon>FrmTaxBase.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\General\FrmTemp.resx">
+      <DependentUpon>FrmTemp.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\General\FrmTempalte.resx">
+      <DependentUpon>FrmTempalte.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\General\FrmTraceBls.resx">
+      <DependentUpon>FrmTraceBls.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\General\FrmUsers.resx">
+      <DependentUpon>FrmUsers.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\General\FrmVesselList.resx">
+      <DependentUpon>FrmVesselList.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\General\FrmVessels.resx">
+      <DependentUpon>FrmVessels.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\General\FrmVoyage.resx">
+      <DependentUpon>FrmVoyage.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\General\NewColumnDialog.resx">
+      <DependentUpon>NewColumnDialog.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\General\xxBLTools.resx">
+      <DependentUpon>xxBLTools.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\Inward\FrmBLTools.resx">
+      <DependentUpon>FrmBLTools.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\Inward\FrmDOPrint.resx">
+      <DependentUpon>FrmDOPrint.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\Inward\FrmImco.resx">
+      <DependentUpon>FrmImco.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\Inward\FrmInquery.resx">
+      <DependentUpon>FrmInquery.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\Inward\FrmInqueryCheckList.resx">
+      <DependentUpon>FrmInqueryCheckList.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\Inward\FrmInwardBls.resx">
+      <DependentUpon>FrmInwardBls.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\Inward\FrmInwardDiscount.resx">
+      <DependentUpon>FrmInwardDiscount.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\Inward\FrmInwardGenaralList.resx">
+      <DependentUpon>FrmInwardGenaralList.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\Inward\FrmInwardGenaralListDate.resx">
+      <DependentUpon>FrmInwardGenaralListDate.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\Inward\FrmInwardSearch.resx">
+      <DependentUpon>FrmInwardSearch.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\Inward\FrmSendDocument.resx">
+      <DependentUpon>FrmSendDocument.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\Inward\FrmWditPortWrongList.resx">
+      <DependentUpon>FrmWditPortWrongList.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\Outward\FrmAssignVoyExportCntrs.resx">
+      <DependentUpon>FrmAssignVoyExportCntrs.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\Outward\FrmBLToolsOutward.resx">
+      <DependentUpon>FrmBLToolsOutward.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\Outward\FrmBooking.resx">
+      <DependentUpon>FrmBooking.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\Outward\FrmBookingCntrs.resx">
+      <DependentUpon>FrmBookingCntrs.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\Outward\FrmBookingMerge.resx">
+      <DependentUpon>FrmBookingMerge.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\Outward\FrmBookingReleaseRequest.resx">
+      <DependentUpon>FrmBookingReleaseRequest.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\Outward\FrmBookingTrace.resx">
+      <DependentUpon>FrmBookingTrace.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\Outward\FrmOutwardBls.resx">
+      <DependentUpon>FrmOutwardBls.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\Outward\FrmOutwardDiscount.resx">
+      <DependentUpon>FrmOutwardDiscount.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\Outward\FrmOutwardGenaralList.resx">
+      <DependentUpon>FrmOutwardGenaralList.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\Outward\FrmoutwardGenaralListDate.resx">
+      <DependentUpon>FrmoutwardGenaralListDate.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\Outward\FrmOutwardSearch.resx">
+      <DependentUpon>FrmOutwardSearch.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\Outward\FrmOutwardTempalte.resx">
+      <DependentUpon>FrmOutwardTempalte.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\Outward\FrmPermits.resx">
+      <DependentUpon>FrmPermits.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\Outward\FrmPermitTools.resx">
+      <DependentUpon>FrmPermitTools.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\Outward\FrmReleaseLetter.resx">
+      <DependentUpon>FrmReleaseLetter.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\Outward\FrmSalesActivity.resx">
+      <DependentUpon>FrmSalesActivity.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Forms\Outward\FrmSearchAdvanceOut.resx">
+      <DependentUpon>FrmSearchAdvanceOut.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Reports\RptInvoiceIWS.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptInvoiceIWS.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Reports\OldRptBooking.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>OldRptBooking1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Reports\PCLRptExpLoadList.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>PCLRptExpLoadList1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Reports\Rpt1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Rpt1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Reports\RptArrivalNotice.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptArrivalNotice1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Reports\RptBL.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptBL1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Reports\RptBlAttachment.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptBlAttachment.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Reports\RPTBLNew.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RPTBLNew2.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Reports\RPTBLNewAtch.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RPTBLNewAtch2.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Reports\RptBooking.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptBooking2.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Reports\RptBookingMemo.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptBookingMemo2.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Reports\RptDCR.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptDCR2.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Reports\RptDeposit.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptDeposit2.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Reports\RptDO.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptDO2.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Reports\RptExManifest.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptExManifest2.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Reports\RptFooter.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptFooter2.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Reports\RptHeaderLogoLS.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptHeaderLogoLS2.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Reports\RptHedaerLogo.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptHedaerLogo2.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Reports\RptInvoice.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptInvoice2.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Reports\RptInvoiceOfficial.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptInvoiceOfficial2.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Reports\RptInwardDetention.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptInwardDetention.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Reports\RptInwardMnfCover.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptInwardMnfCover2.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Reports\RptInwardSumm.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptInwardSumm2.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Reports\RptInwrdMnfst.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptInwrdMnfst2.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Reports\RptOutwardDetention.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptOutwardDetention2.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\Reports\RptTranshipBL.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptTranshipBL2.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\UserControls\UserAgents.resx">
+      <DependentUpon>UserAgents.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\UserControls\ThumbnailControl.resx">
+      <DependentUpon>ThumbnailControl.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\UserControls\UserBLMisc.resx">
+      <DependentUpon>UserBLMisc.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\UserControls\UserBLPrint.resx">
+      <DependentUpon>UserBLPrint.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\UserControls\UserBLS.resx">
+      <DependentUpon>UserBLS.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\UserControls\UserBlsCharges.resx">
+      <DependentUpon>UserBlsCharges.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\UserControls\UserBlsCntrs.resx">
+      <DependentUpon>UserBlsCntrs.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\UserControls\UserBlsCntrsPkg.resx">
+      <DependentUpon>UserBlsCntrsPkg.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\UserControls\UserBlsComments.resx">
+      <DependentUpon>UserBlsComments.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\UserControls\UserBlsDocs.resx">
+      <DependentUpon>UserBlsDocs.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\UserControls\UserBlsFinancial.resx">
+      <DependentUpon>UserBlsFinancial.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\UserControls\UserBlsGoods.resx">
+      <DependentUpon>UserBlsGoods.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\UserControls\UserBlsNamesExp.resx">
+      <DependentUpon>UserBlsNamesExp.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\UserControls\UserBlsNames.resx">
+      <DependentUpon>UserBlsNames.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\UserControls\UserBlsPersian.resx">
+      <DependentUpon>UserBlsPersian.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\UserControls\UserBookingNo.resx">
+      <DependentUpon>UserBookingNo.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\UserControls\UserBookingSearch.resx">
+      <DependentUpon>UserBookingSearch.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\UserControls\UserClients.resx">
+      <DependentUpon>UserClients.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\UserControls\UserClientText.resx">
+      <DependentUpon>UserClientText.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\UserControls\UserComboCode.resx">
+      <DependentUpon>UserComboCode.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\UserControls\UserComboGnrl.resx">
+      <DependentUpon>UserComboGnrl.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\UserControls\UserComboVessel.resx">
+      <DependentUpon>UserComboVessel.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\UserControls\UserComboVoyage.resx">
+      <DependentUpon>UserComboVoyage.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\UserControls\UserDetentionByDay.resx">
+      <DependentUpon>UserDetentionByDay.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\UserControls\UserEcsCntrsInsert.resx">
+      <DependentUpon>UserEcsCntrsInsert.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\UserControls\UserFreeTime.resx">
+      <DependentUpon>UserFreeTime.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\UserControls\UserGeneralForms.resx">
+      <DependentUpon>UserGeneralForms.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\UserControls\UserGnrlDate.resx">
+      <DependentUpon>UserGnrlDate.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\UserControls\UserImco.resx">
+      <DependentUpon>UserImco.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\UserControls\UserInfo.resx">
+      <DependentUpon>UserInfo.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\UserControls\UserMemo.resx">
+      <DependentUpon>UserMemo.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\UserControls\UserMenuItem.resx">
+      <DependentUpon>UserMenuItem.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\UserControls\UserNavigate.resx">
+      <DependentUpon>UserNavigate.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\UserControls\UserNum.resx">
+      <DependentUpon>UserNum.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\UserControls\UserOutwardBlsBookingNo.resx">
+      <DependentUpon>UserOutwardBlsBookingNo.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\UserControls\UserPortCode.resx">
+      <DependentUpon>UserPortCode.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\UserControls\UserText.resx">
+      <DependentUpon>UserText.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingGeneral\UserControls\UserTextFarsi.resx">
+      <DependentUpon>UserTextFarsi.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="ShippingGeneral\Datasets\DSMnfCharges.xsc">
+      <DependentUpon>DSMnfCharges.xsd</DependentUpon>
+    </None>
+    <None Include="ShippingGeneral\Datasets\DSMnfCharges.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DSMnfCharges.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="ShippingGeneral\Datasets\DSMnfCharges.xss">
+      <DependentUpon>DSMnfCharges.xsd</DependentUpon>
+    </None>
+    <None Include="ShippingGeneral\Datasets\DSInwardDetn.xsc">
+      <DependentUpon>DSInwardDetn.xsd</DependentUpon>
+    </None>
+    <None Include="ShippingGeneral\Datasets\DSInwardDetn.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DSInwardDetn.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="ShippingGeneral\Datasets\DSInwardDetn.xss">
+      <DependentUpon>DSInwardDetn.xsd</DependentUpon>
+    </None>
+    <None Include="Shipping_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\Aspose.Words.dll" />
+    <Content Include="bin\Debug\Microsoft.Office.Interop.Word.dll" />
+    <Content Include="bin\Debug\Microsoft.Vbe.Interop.dll" />
+    <Content Include="Resources\add_24.gif" />
+    <Content Include="Resources\admin_24.gif" />
+    <Content Include="Resources\applications_24.gif" />
+    <Content Include="Resources\arrow-back_24.gif" />
+    <Content Include="Resources\arrow-down_24.gif" />
+    <Content Include="Resources\arrow-forward_24.gif" />
+    <Content Include="Resources\arrow-up_24.gif" />
+    <Content Include="Resources\calendar_24.gif" />
+    <Content Include="Resources\cancel_24.gif" />
+    <Content Include="Resources\chat_24.gif" />
+    <Content Include="Resources\close_24.gif" />
+    <Content Include="Resources\computer_24.gif" />
+    <Content Include="Resources\confirm_24.gif" />
+    <Content Include="Resources\contacts_24.gif" />
+    <Content Include="Resources\control-forward_24.gif" />
+    <Content Include="Resources\control-pause_24.gif" />
+    <Content Include="Resources\control-play_24.gif" />
+    <Content Include="Resources\control-reverse_24.gif" />
+    <Content Include="Resources\control-skip-bw_24.gif" />
+    <Content Include="Resources\control-skip-fw_24.gif" />
+    <Content Include="Resources\control-stop_24.gif" />
+    <Content Include="Resources\copy_24.gif" />
+    <Content Include="Resources\cut_24.gif" />
+    <Content Include="Resources\delete_24.gif" />
+    <Content Include="Resources\disc-media_24.gif" />
+    <Content Include="Resources\documents_16.gif" />
+    <Content Include="Resources\documents_24.gif" />
+    <Content Include="Resources\edit_24.gif" />
+    <Content Include="Resources\export_24.gif" />
+    <Content Include="Resources\favorites-add_24.gif" />
+    <Content Include="Resources\favorites_24.gif" />
+    <Content Include="Resources\Fax_24.gif" />
+    <Content Include="Resources\finance_24.gif" />
+    <Content Include="Resources\folder-closed_24.gif" />
+    <Content Include="Resources\folder-open_24.gif" />
+    <Content Include="Resources\go_24.gif" />
+    <Content Include="Resources\group_24.gif" />
+    <Content Include="Resources\hard-disk_24.gif" />
+    <Content Include="Resources\help_24.gif" />
+    <Content Include="Resources\history_24.gif" />
+    <Content Include="Resources\home_24.gif" />
+    <Content Include="Resources\import_24.gif" />
+    <Content Include="Resources\info_24.gif" />
+    <Content Include="Resources\mail_24.gif" />
+    <Content Include="Resources\movie_24.gif" />
+    <Content Include="Resources\MSExcel2424.jpg" />
+    <Content Include="Resources\music_24.gif" />
+    <Content Include="Resources\network_24.gif" />
+    <Content Include="Resources\notes_24.gif" />
+    <Content Include="Resources\paste_24.gif" />
+    <Content Include="Resources\pictures_24.gif" />
+    <Content Include="Resources\PLOGO.jpg" />
+    <Content Include="Resources\print_24.gif" />
+    <Content Include="Resources\redo_24.gif" />
+    <Content Include="Resources\refresh_24.gif" />
+    <Content Include="Resources\report_24.gif" />
+    <Content Include="Resources\save_24.gif" />
+    <Content Include="Resources\search_16.gif" />
+    <Content Include="Resources\search_24.gif" />
+    <Content Include="Resources\security-locked_24.gif" />
+    <Content Include="Resources\security-unlocked_24.gif" />
+    <Content Include="Resources\shopping-cart_24.gif" />
+    <Content Include="Resources\stop_24.gif" />
+    <Content Include="Resources\tdx_excel2424.png" />
+    <Content Include="Resources\trash_24.gif" />
+    <Content Include="Resources\undo_24.gif" />
+    <Content Include="Resources\user_24.gif" />
+    <Content Include="Resources\vector-32x32.png" />
+    <Content Include="Resources\web_24.gif" />
+    <Content Include="Resources\Word-icon.png" />
+    <Content Include="Resources\word.gif" />
+    <Content Include="Resources\zoom-in_24.gif" />
+    <Content Include="Resources\zoom-out_24.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="BusinessObjects.CrystalReports.10.5">
+      <Visible>False</Visible>
+      <ProductName>Crystal Reports Basic for Visual Studio 2008 %28x86, x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <COMReference Include="CrystalReportsCommonObjectModelLib">
+      <Guid>{FDB9B69E-BA79-4B13-9E96-8373AF162AEA}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

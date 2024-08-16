@@ -1,0 +1,1427 @@
+D:\Prgs2008\BBI\Shipping\Shipping\bin\Release\Shipping.exe.config
+D:\Prgs2008\BBI\Shipping\Shipping\bin\Release\Shipping.exe.manifest
+D:\Prgs2008\BBI\Shipping\Shipping\bin\Release\Shipping.application
+D:\Prgs2008\BBI\Shipping\Shipping\bin\Release\Shipping.exe
+D:\Prgs2008\BBI\Shipping\Shipping\bin\Release\Shipping.pdb
+D:\Prgs2008\BBI\Shipping\Shipping\bin\Release\Shipping.xml
+D:\Prgs2008\BBI\Shipping\Shipping\bin\Release\Aspose.Cells.dll
+D:\Prgs2008\BBI\Shipping\Shipping\bin\Release\Aspose.Words.dll
+D:\Prgs2008\BBI\Shipping\Shipping\bin\Release\msmdvbanet.dll
+D:\Prgs2008\BBI\Shipping\Shipping\bin\Release\ShippingBiz.dll
+D:\Prgs2008\BBI\Shipping\Shipping\bin\Release\Xceed.FileSystem.dll
+D:\Prgs2008\BBI\Shipping\Shipping\bin\Release\Xceed.Ftp.dll
+D:\Prgs2008\BBI\Shipping\Shipping\bin\Release\ShippingBiz.xml
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\ResolveAssemblyReference.cache
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmNosaAccount.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmNosaAccountExp.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmNosaGenerateVC.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.LoadListCompare.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmWHLMapping.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmWHlMappingOutward.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.Form1.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmAfsysInwardMap.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmGroupInvoice.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmGroupRcvd.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmNosaConfirm.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmAgents.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmGenerateVocher.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmImportData.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.Resources.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.CLGeneralForm.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmAccGnrlReport.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmAccountTitle.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmDeposits.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmInvoiceEdit.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmInvoiceTrace.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmInwardInvoice.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmOutWardInvoice.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmRecivedItems.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmVoyageSummary.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmVoyageSummaryExp.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmEcs.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmEcsApplyFC.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmEcsBatch.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmEcsCodecoApply.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmEcsImport.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmEcsReports.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmEcsWHLReports.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmShowDamage.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmShowImage.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.CustomColumnChooser.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FRmAboutBox.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmActivity.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmBLCharges.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmBlPrintDef.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmCalculationBase.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmChangeLineDialog.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmClientDialog.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmClients.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmCluses.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmComments.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmCompany.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmCustomColumnChooser.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmCustomReportItem.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmDetentionBase.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmDialogPrint.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmDialogShowGrid.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmDOPrint.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmExchange.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmGeneralReportShow.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmGeneralSearch.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmGenXML.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmInwardStatus.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmLines.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmLogon.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmLogView.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmLogViewByID.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmMapEDI.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmPMain.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmPortDialog.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmPorts.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmRaiseError.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmReferences.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmSetelment.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmShowDocuments.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmSof.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmStatestical.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmStatesticalExp.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmTaxBase.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmTemp.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmTempalte.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmTraceBls.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmUsers.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmVesselList.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmVessels.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmVoyage.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.NewColumnDialog.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.xxBLTools.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmBLTools.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmEDI.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmImco.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmInquery.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmInqueryCheckList.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmInwardBls.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmInwardDiscount.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmInwardGenaralList.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmInwardGenaralListDate.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmInwardSearch.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmSendDocument.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmWditPortWrongList.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmAssignVoyExportCntrs.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmBLToolsOutward.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmBooking.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmBookingCntrs.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmBookingReleaseRequest.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmBookingTrace.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmOutwardBls.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmOutwardDiscount.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmOutwardGenaralList.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmoutwardGenaralListDate.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmOutwardSearch.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmOutwardTempalte.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmPermits.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmPermitTools.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmReleaseLetter.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmSalesActivity.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmSearchAdvanceOut.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.ThumbnailControl.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.UserBLMisc.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.UserBLPrint.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.UserBLS.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.UserBlsCharges.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.UserBlsCntrs.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.UserBlsComments.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.UserBlsDocs.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.UserBlsGoods.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.UserBlsNames.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.UserBlsPersian.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.UserBookingNo.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.UserClients.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.UserClientText.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.UserComboCode.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.UserComboGnrl.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.UserComboVessel.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.UserComboVoyage.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.UserDetentionByDay.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.UserEcsCntrsInsert.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.UserGeneralForms.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.UserGnrlDate.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.UserImco.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.UserInfo.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.UserMemo.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.UserMenuItem.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.UserNavigate.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.UserNum.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.UserPortCode.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.UserText.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.UserTextFarsi.resources
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.vbproj.GenerateResource.Cache
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.exe.licenses
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.exe.manifest
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.application
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.exe
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.xml
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.pdb
+E:\Project\BBI\Shipping\Shipping\bin\Release\Shipping.exe.config
+E:\Project\BBI\Shipping\Shipping\bin\Release\Shipping.exe.manifest
+E:\Project\BBI\Shipping\Shipping\bin\Release\Shipping.application
+E:\Project\BBI\Shipping\Shipping\bin\Release\Shipping.exe
+E:\Project\BBI\Shipping\Shipping\bin\Release\Shipping.pdb
+E:\Project\BBI\Shipping\Shipping\bin\Release\Shipping.xml
+E:\Project\BBI\Shipping\Shipping\bin\Release\Aspose.Cells.dll
+E:\Project\BBI\Shipping\Shipping\bin\Release\Aspose.Words.dll
+E:\Project\BBI\Shipping\Shipping\bin\Release\msmdvbanet.dll
+E:\Project\BBI\Shipping\Shipping\bin\Release\OrmLib.dll
+E:\Project\BBI\Shipping\Shipping\bin\Release\ShippingBiz.dll
+E:\Project\BBI\Shipping\Shipping\bin\Release\Xceed.FileSystem.dll
+E:\Project\BBI\Shipping\Shipping\bin\Release\Xceed.Ftp.dll
+E:\Project\BBI\Shipping\Shipping\bin\Release\ShippingBiz.xml
+E:\Project\BBI\Shipping\Shipping\obj\Release\ResolveAssemblyReference.cache
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmNosaAccount.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmNosaAccountExp.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmNosaGenerateVC.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.LoadListCompare.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmWHLMapping.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmWHlMappingOutward.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.Form1.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmAfsysInwardMap.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmGroupInvoice.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmGroupRcvd.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmNosaConfirm.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmAgents.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmGenerateVocher.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmImportData.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.Resources.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.CLGeneralForm.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmAccGnrlReport.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmAccountTitle.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmDeposits.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmInvoiceEdit.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmInvoiceTrace.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmInwardInvoice.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmOutWardInvoice.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmRecivedItems.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmVoyageSummary.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmVoyageSummaryExp.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmEcs.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmEcsApplyFC.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmEcsBatch.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmEcsCodecoApply.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmEcsImport.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmEcsReports.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmEcsWHLReports.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmShowDamage.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmShowImage.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.CustomColumnChooser.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FRmAboutBox.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmActivity.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmBLCharges.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmBlPrintDef.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmCalculationBase.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmChangeLineDialog.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmClientDialog.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmClients.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmCluses.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmComments.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmCompany.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmCustomColumnChooser.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmCustomReportItem.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmDetentionBase.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmDialogPrint.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmDialogShowGrid.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmDOPrint.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmExchange.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmGeneralReportShow.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmGeneralSearch.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmGenXML.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmInwardStatus.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmLines.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmLogon.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmLogView.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmLogViewByID.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmMapEDI.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmPMain.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmPortDialog.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmPorts.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmRaiseError.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmReferences.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmSetelment.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmShowDocuments.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmSof.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmStatestical.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmStatesticalExp.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmTaxBase.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmTemp.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmTempalte.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmTraceBls.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmUsers.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmVesselList.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmVessels.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmVoyage.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.NewColumnDialog.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.xxBLTools.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmBLTools.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmEDI.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmImco.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmInquery.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmInqueryCheckList.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmInwardBls.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmInwardDiscount.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmInwardGenaralList.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmInwardGenaralListDate.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmInwardSearch.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmSendDocument.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmWditPortWrongList.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmAssignVoyExportCntrs.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmBLToolsOutward.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmBooking.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmBookingCntrs.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmBookingReleaseRequest.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmBookingTrace.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmOutwardBls.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmOutwardDiscount.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmOutwardGenaralList.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmoutwardGenaralListDate.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmOutwardSearch.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmOutwardTempalte.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmPermits.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmPermitTools.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmReleaseLetter.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmSalesActivity.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmSearchAdvanceOut.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.ThumbnailControl.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.UserBLMisc.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.UserBLPrint.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.UserBLS.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.UserBlsCharges.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.UserBlsCntrs.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.UserBlsComments.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.UserBlsDocs.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.UserBlsGoods.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.UserBlsNames.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.UserBlsPersian.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.UserBookingNo.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.UserClients.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.UserClientText.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.UserComboCode.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.UserComboGnrl.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.UserComboVessel.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.UserComboVoyage.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.UserDetentionByDay.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.UserEcsCntrsInsert.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.UserGeneralForms.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.UserGnrlDate.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.UserImco.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.UserInfo.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.UserMemo.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.UserMenuItem.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.UserNavigate.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.UserNum.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.UserPortCode.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.UserText.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.UserTextFarsi.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.vbproj.GenerateResource.Cache
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.exe.licenses
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.exe.manifest
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.application
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.exe
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.xml
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.pdb
+D:\Prgs2008\BBI\Shipping\Shipping\bin\Release\OrmLib.dll
+D:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmClientMerge.resources
+E:\Project\BBI\Shipping\Shipping\obj\Release\Shipping.FrmClientMerge.resources
+E:\Project\BBI\BBI\Shipping\Shipping\bin\Release\Shipping.exe.config
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.exe
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.xml
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.pdb
+E:\Project\BBI\BBI\Shipping\Shipping\bin\Release\Shipping.exe.manifest
+E:\Project\BBI\BBI\Shipping\Shipping\bin\Release\Shipping.application
+E:\Project\BBI\BBI\Shipping\Shipping\bin\Release\Shipping.exe
+E:\Project\BBI\BBI\Shipping\Shipping\bin\Release\Shipping.pdb
+E:\Project\BBI\BBI\Shipping\Shipping\bin\Release\Shipping.xml
+E:\Project\BBI\BBI\Shipping\Shipping\bin\Release\Aspose.Cells.dll
+E:\Project\BBI\BBI\Shipping\Shipping\bin\Release\Aspose.Words.dll
+E:\Project\BBI\BBI\Shipping\Shipping\bin\Release\msmdvbanet.dll
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\ResolveAssemblyReference.cache
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmNosaAccount.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmNosaAccountExp.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmNosaGenerateVC.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.LoadListCompare.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmWHLMapping.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmWHlMappingOutward.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.Form1.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmAfsysInwardMap.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmAccGnrlReport.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmGroupInvoice.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmGroupRcvd.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmNosaConfirm.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmAgents.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmGenerateVocher.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmImportData.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.Resources.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.CLGeneralForm.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmAccountTitle.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmDeposits.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmInvoiceEdit.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmInvoiceTrace.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmInwardInvoice.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmOutWardInvoice.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmRecivedItems.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmVoyageSummary.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmVoyageSummaryExp.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmEcs.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmEcsApplyFC.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmEcsBatch.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmEcsCodecoApply.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmEcsImport.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmEcsReports.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmEcsWHLReports.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmShowDamage.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmShowImage.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.CustomColumnChooser.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FRmAboutBox.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmActivity.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmBLCharges.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmBlPrintDef.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmCalculationBase.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmChangeLineDialog.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmClientDialog.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmClientMerge.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmClients.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmCluses.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmComments.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmCompany.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmCustomColumnChooser.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmCustomReportItem.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmDetentionBase.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmDialogPrint.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmDialogShowGrid.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmDOPrint.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmExchange.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmGeneralReportShow.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmGeneralSearch.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmGenXML.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmInwardStatus.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmLines.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmLogon.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmLogView.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmLogViewByID.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmMapEDI.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmPMain.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmPortDialog.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmPorts.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmRaiseError.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmReferences.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmSetelment.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmShowDocuments.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmSof.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmStatestical.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmStatesticalExp.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmTaxBase.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmTemp.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmTempalte.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmTraceBls.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmUsers.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmVesselList.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmVessels.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmVoyage.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.NewColumnDialog.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.xxBLTools.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmBLTools.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmEDI.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmImco.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmInquery.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmInqueryCheckList.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmInwardBls.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmInwardDiscount.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmInwardGenaralList.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmInwardGenaralListDate.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmInwardSearch.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmSendDocument.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmWditPortWrongList.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmAssignVoyExportCntrs.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmBLToolsOutward.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmBooking.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmBookingCntrs.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmBookingReleaseRequest.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmBookingTrace.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmOutwardBls.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmOutwardDiscount.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmOutwardGenaralList.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmoutwardGenaralListDate.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmOutwardSearch.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmOutwardTempalte.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmPermits.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmPermitTools.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmReleaseLetter.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmSalesActivity.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmSearchAdvanceOut.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.ThumbnailControl.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.UserBLMisc.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.UserBLPrint.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.UserBLS.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.UserBlsCharges.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.UserBlsCntrs.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.UserBlsComments.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.UserBlsDocs.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.UserBlsGoods.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.UserBlsNames.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.UserBlsPersian.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.UserBookingNo.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.UserClients.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.UserClientText.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.UserComboCode.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.UserComboGnrl.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.UserComboVessel.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.UserComboVoyage.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.UserDetentionByDay.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.UserEcsCntrsInsert.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.UserGeneralForms.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.UserGnrlDate.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.UserImco.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.UserInfo.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.UserMemo.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.UserMenuItem.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.UserNavigate.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.UserNum.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.UserPortCode.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.UserText.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.UserTextFarsi.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.vbproj.GenerateResource.Cache
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.exe.licenses
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.exe.manifest
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.application
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.UserBlsFinancial.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\bin\Release\Shipping.exe.config
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\bin\Release\Shipping.exe.manifest
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\bin\Release\Shipping.application
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\bin\Release\Shipping.exe
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\bin\Release\Shipping.pdb
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\bin\Release\Shipping.xml
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\bin\Release\Aspose.Cells.dll
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\bin\Release\Aspose.Words.dll
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\bin\Release\msmdvbanet.dll
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\ResolveAssemblyReference.cache
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmNosaAccount.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmNosaAccountExp.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmNosaGenerateVC.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.LoadListCompare.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmWHLMapping.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmWHlMappingOutward.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.Form1.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmAfsysInwardMap.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmAccGnrlReport.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmGroupInvoice.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmGroupRcvd.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmNosaConfirm.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmAgents.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmGenerateVocher.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmImportData.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.Resources.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.CLGeneralForm.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmAccountTitle.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmDeposits.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmInvoiceEdit.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmInvoiceTrace.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmInwardInvoice.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmOutWardInvoice.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmRecivedItems.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmVoyageSummary.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmVoyageSummaryExp.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmEcs.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmEcsApplyFC.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmEcsBatch.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmEcsCodecoApply.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmEcsImport.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmEcsReports.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmEcsWHLReports.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmShowDamage.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmShowImage.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.CustomColumnChooser.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FRmAboutBox.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmActivity.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmBLCharges.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmBlPrintDef.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmCalculationBase.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmChangeLineDialog.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmClientDialog.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmClientMerge.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmClients.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmCluses.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmComments.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmCompany.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmCustomColumnChooser.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmCustomReportItem.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmDetentionBase.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmDialogPrint.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmDialogShowGrid.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmDOPrint.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmExchange.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmGeneralReportShow.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmGeneralSearch.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmGenXML.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmInwardStatus.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmLines.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmLogon.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmLogView.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmLogViewByID.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmMapEDI.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmPMain.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmPortDialog.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmPorts.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmRaiseError.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmReferences.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmSetelment.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmShowDocuments.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmSof.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmStatestical.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmStatesticalExp.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmTaxBase.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmTemp.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmTempalte.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmTraceBls.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmUsers.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmVesselList.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmVessels.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmVoyage.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.NewColumnDialog.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.xxBLTools.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmBLTools.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmEDI.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmImco.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmInquery.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmInqueryCheckList.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmInwardBls.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmInwardDiscount.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmInwardGenaralList.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmInwardGenaralListDate.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmInwardSearch.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmSendDocument.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmWditPortWrongList.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmAssignVoyExportCntrs.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmBLToolsOutward.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmBooking.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmBookingCntrs.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmBookingMerge.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmBookingReleaseRequest.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmBookingTrace.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmOutwardBls.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmOutwardDiscount.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmOutwardGenaralList.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmoutwardGenaralListDate.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmOutwardSearch.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmOutwardTempalte.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmPermits.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmPermitTools.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmReleaseLetter.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmSalesActivity.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmSearchAdvanceOut.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.ThumbnailControl.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.UserBLMisc.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.UserBLPrint.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.UserBLS.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.UserBlsCharges.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.UserBlsCntrs.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.UserBlsComments.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.UserBlsDocs.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.UserBlsFinancial.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.UserBlsGoods.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.UserBlsNames.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.UserBlsPersian.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.UserBookingNo.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.UserClients.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.UserClientText.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.UserComboCode.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.UserComboGnrl.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.UserComboVessel.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.UserComboVoyage.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.UserDetentionByDay.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.UserEcsCntrsInsert.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.UserGeneralForms.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.UserGnrlDate.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.UserImco.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.UserInfo.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.UserMemo.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.UserMenuItem.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.UserNavigate.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.UserNum.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.UserPortCode.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.UserText.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.UserTextFarsi.resources
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.vbproj.GenerateResource.Cache
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.exe.licenses
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.exe.manifest
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.application
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.exe
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.xml
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.pdb
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\bin\Release\OrmLib.dll
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\bin\Release\ShipingBiz.dll
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\bin\Release\ShipingBiz.pdb
+E:\Prgs2008\BBI\BBI\Shipping\Shipping\bin\Release\ShipingBiz.xml
+E:\Project\BBI\BBI\Shipping\Shipping\bin\Release\OrmLib.dll
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.FrmBookingMerge.resources
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.UserBookingSearch.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\ResolveAssemblyReference.cache
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmNosaAccount.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmNosaAccountExp.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmNosaGenerateVC.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.LoadListCompare.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmWHLMapping.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmWHlMappingOutward.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.Form1.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmAfsysInwardMap.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmAccGnrlReport.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmGroupInvoice.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmGroupRcvd.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmNosaConfirm.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmAgents.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmGenerateVocher.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmImportData.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.Resources.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.CLGeneralForm.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmAccountTitle.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmDeposits.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmInvoiceEdit.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmInvoiceTrace.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmInwardInvoice.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmOutWardInvoice.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmRecivedItems.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmVoyageSummary.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmVoyageSummaryExp.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmEcs.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmEcsApplyFC.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmEcsBatch.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmEcsCodecoApply.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmEcsImport.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmEcsReports.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmEcsWHLReports.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmShowDamage.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmShowImage.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.CustomColumnChooser.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FRmAboutBox.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmActivity.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmBLCharges.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmBlPrintDef.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmCalculationBase.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmChangeLineDialog.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmClientDialog.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmClientMerge.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmClients.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmCluses.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmComments.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmCompany.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmCustomColumnChooser.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmCustomReportItem.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmDetentionBase.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmDialogPrint.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmDialogShowGrid.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmExchange.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmGeneralReportShow.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmGeneralSearch.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmGenXML.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmInwardStatus.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmLines.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmLogon.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmLogView.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmLogViewByID.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmMapEDI.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmPMain.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmPortDialog.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmPorts.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmRaiseError.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmReferences.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmSetelment.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmShowDocuments.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmSof.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmStatestical.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmStatesticalExp.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmTaxBase.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmTemp.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmTempalte.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmTraceBls.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmUsers.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmVesselList.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmVessels.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmVoyage.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.NewColumnDialog.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.xxBLTools.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmBLTools.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmDOPrint.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmEDI.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmImco.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmInquery.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmInqueryCheckList.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmInwardBls.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmInwardDiscount.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmInwardGenaralList.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmInwardGenaralListDate.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmInwardSearch.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmSendDocument.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmWditPortWrongList.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmAssignVoyExportCntrs.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmBLToolsOutward.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmBooking.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmBookingCntrs.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmBookingMerge.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmBookingReleaseRequest.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmBookingTrace.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmOutwardBls.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmOutwardDiscount.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmOutwardGenaralList.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmoutwardGenaralListDate.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmOutwardSearch.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmOutwardTempalte.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmPermits.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmPermitTools.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmReleaseLetter.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmSalesActivity.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.FrmSearchAdvanceOut.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.ThumbnailControl.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.UserBLMisc.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.UserBLPrint.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.UserBLS.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.UserBlsCharges.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.UserBlsCntrs.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.UserBlsComments.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.UserBlsDocs.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.UserBlsFinancial.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.UserBlsGoods.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.UserBlsNames.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.UserBlsPersian.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.UserBookingNo.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.UserBookingSearch.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.UserClients.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.UserClientText.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.UserComboCode.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.UserComboGnrl.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.UserComboVessel.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.UserComboVoyage.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.UserDetentionByDay.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.UserEcsCntrsInsert.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.UserGeneralForms.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.UserGnrlDate.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.UserImco.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.UserInfo.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.UserMemo.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.UserMenuItem.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.UserNavigate.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.UserNum.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.UserPortCode.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.UserText.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.UserTextFarsi.resources
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.vbproj.GenerateResource.Cache
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.exe.licenses
+E:\Prgs2008\BBI\Shipping\Shipping\bin\Release\Shipping.exe.config
+E:\Prgs2008\BBI\Shipping\Shipping\bin\Release\Shipping.exe.manifest
+E:\Prgs2008\BBI\Shipping\Shipping\bin\Release\Shipping.application
+E:\Prgs2008\BBI\Shipping\Shipping\bin\Release\Shipping.exe
+E:\Prgs2008\BBI\Shipping\Shipping\bin\Release\Shipping.pdb
+E:\Prgs2008\BBI\Shipping\Shipping\bin\Release\Shipping.xml
+E:\Prgs2008\BBI\Shipping\Shipping\bin\Release\Aspose.BarCode.dll
+E:\Prgs2008\BBI\Shipping\Shipping\bin\Release\Aspose.Cells.dll
+E:\Prgs2008\BBI\Shipping\Shipping\bin\Release\Aspose.Words.dll
+E:\Prgs2008\BBI\Shipping\Shipping\bin\Release\msmdvbanet.dll
+E:\Prgs2008\BBI\Shipping\Shipping\bin\Release\OrmLib.dll
+E:\Prgs2008\BBI\Shipping\Shipping\bin\Release\ShippingBiz.dll
+E:\Prgs2008\BBI\Shipping\Shipping\bin\Release\Aspose.BarCode.xml
+E:\Prgs2008\BBI\Shipping\Shipping\bin\Release\ShippingBiz.pdb
+E:\Prgs2008\BBI\Shipping\Shipping\bin\Release\ShippingBiz.xml
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.exe.manifest
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.application
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.exe
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.xml
+E:\Prgs2008\BBI\Shipping\Shipping\obj\Release\Shipping.pdb
+E:\Project\BBI\BBI\Shipping\Shipping\bin\Release\ShippingBiz.dll
+E:\Project\BBI\BBI\Shipping\Shipping\bin\Release\ShippingBiz.xml
+E:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.UserFreeTime.resources
+D:\Project\BBI\BBI\Shipping\Shipping\bin\Release\Shipping.exe.config
+D:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.exe
+D:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.xml
+D:\Project\BBI\BBI\Shipping\Shipping\obj\Release\Shipping.pdb
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\ResolveAssemblyReference.cache
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmNosaAccount.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmNosaAccountExp.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmNosaConfirm.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmNosaGenerateVC.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmWHLMapping.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmWHlMappingOutward.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmAccGnrlReport.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmGroupInvoice.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmGroupRcvd.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmAgents.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.Resources.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.CLGeneralForm.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmAccountTitle.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmDeposits.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmInvoiceEdit.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmInvoiceTrace.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmInwardInvoice.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmOutWardInvoice.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmRecivedItems.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmVoyageSummary.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmVoyageSummaryExp.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmEcs.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmEcsApplyFC.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmEcsBatch.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmEcsCodecoApply.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmEcsImport.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmEcsReports.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmEcsWHLReports.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmShowDamage.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmShowImage.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.CustomColumnChooser.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FRmAboutBox.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmActivity.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmBLCharges.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmBlPrintDef.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmCalculationBase.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmChangeLineDialog.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmClientDialog.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmClientMerge.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmClients.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmCluses.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmComments.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmCompany.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmCustomColumnChooser.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmCustomReportItem.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmDetentionBase.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmDialogPrint.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmDialogShowGrid.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmExchange.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmGeneralReportShow.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmGeneralSearch.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmGenXML.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmInwardStatus.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmLines.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmLogon.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmLogView.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmLogViewByID.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmMapEDI.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmPMain.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmPortDialog.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmPorts.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmRaiseError.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmReferences.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmSetelment.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmShowDocuments.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmSof.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmStatestical.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmStatesticalExp.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmTaxBase.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmTemp.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmTempalte.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmTraceBls.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmUsers.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmVesselList.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmVessels.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmVoyage.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.NewColumnDialog.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.xxBLTools.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmBLTools.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmDOPrint.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmEDI.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmImco.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmInquery.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmInqueryCheckList.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmInwardBls.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmInwardDiscount.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmInwardGenaralList.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmInwardGenaralListDate.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmInwardSearch.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmSendDocument.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmWditPortWrongList.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmAssignVoyExportCntrs.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmBLToolsOutward.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmBooking.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmBookingCntrs.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmBookingMerge.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmBookingReleaseRequest.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmBookingTrace.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmOutwardBls.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmOutwardDiscount.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmOutwardGenaralList.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmoutwardGenaralListDate.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmOutwardSearch.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmOutwardTempalte.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmPermits.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmPermitTools.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmReleaseLetter.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmSalesActivity.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.FrmSearchAdvanceOut.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.ThumbnailControl.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.UserBLMisc.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.UserBLPrint.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.UserBLS.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.UserBlsCharges.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.UserBlsCntrs.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.UserBlsComments.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.UserBlsDocs.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.UserBlsFinancial.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.UserBlsGoods.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.UserBlsNames.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.UserBlsPersian.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.UserBookingNo.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.UserBookingSearch.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.UserClients.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.UserClientText.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.UserComboCode.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.UserComboGnrl.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.UserComboVessel.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.UserComboVoyage.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.UserDetentionByDay.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.UserEcsCntrsInsert.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.UserFreeTime.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.UserGeneralForms.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.UserGnrlDate.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.UserImco.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.UserInfo.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.UserMemo.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.UserMenuItem.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.UserNavigate.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.UserNum.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.UserPortCode.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.UserText.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.UserTextFarsi.resources
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.vbproj.GenerateResource.Cache
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.exe.licenses
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.exe.manifest
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.exe
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.xml
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\obj\Release\Shipping.pdb
+D:\Project\BBI\BBI - Copy\Shipping\Shipping\bin\Release\Shipping.exe.config
+G:\Project\ILSShipping\Shipping\bin\Release\Shipping.exe.config
+G:\Project\ILSShipping\Shipping\bin\Release\Shipping.exe.manifest
+G:\Project\ILSShipping\Shipping\bin\Release\Shipping.application
+G:\Project\ILSShipping\Shipping\bin\Release\Shipping.exe
+G:\Project\ILSShipping\Shipping\bin\Release\Shipping.pdb
+G:\Project\ILSShipping\Shipping\bin\Release\Shipping.xml
+G:\Project\ILSShipping\Shipping\bin\Release\Aspose.Cells.dll
+G:\Project\ILSShipping\Shipping\bin\Release\Aspose.Words.dll
+G:\Project\ILSShipping\Shipping\bin\Release\Infragistics2.Documents.v10.2.dll
+G:\Project\ILSShipping\Shipping\bin\Release\Infragistics2.Excel.v10.2.dll
+G:\Project\ILSShipping\Shipping\bin\Release\Infragistics2.Shared.v10.2.dll
+G:\Project\ILSShipping\Shipping\bin\Release\Infragistics2.Win.AppStylistSupport.v10.2.dll
+G:\Project\ILSShipping\Shipping\bin\Release\Infragistics2.Win.Misc.v10.2.dll
+G:\Project\ILSShipping\Shipping\bin\Release\Infragistics2.Win.SupportDialogs.v10.2.dll
+G:\Project\ILSShipping\Shipping\bin\Release\Infragistics2.Win.UltraChart.v10.2.Design.dll
+G:\Project\ILSShipping\Shipping\bin\Release\Infragistics2.Win.UltraGauge.v10.2.Design.dll
+G:\Project\ILSShipping\Shipping\bin\Release\Infragistics2.Win.UltraWinCalcManager.v10.2.dll
+G:\Project\ILSShipping\Shipping\bin\Release\Infragistics2.Win.UltraWinCalcManager.v10.2.FormulaBuilder.dll
+G:\Project\ILSShipping\Shipping\bin\Release\Infragistics2.Win.UltraWinChart.v10.2.dll
+G:\Project\ILSShipping\Shipping\bin\Release\Infragistics2.Win.UltraWinDataSource.v10.2.dll
+G:\Project\ILSShipping\Shipping\bin\Release\Infragistics2.Win.UltraWinDock.v10.2.dll
+G:\Project\ILSShipping\Shipping\bin\Release\Infragistics2.Win.UltraWinEditors.v10.2.dll
+G:\Project\ILSShipping\Shipping\bin\Release\Infragistics2.Win.UltraWinExplorerBar.v10.2.dll
+G:\Project\ILSShipping\Shipping\bin\Release\Infragistics2.Win.UltraWinGanttView.v10.2.dll
+G:\Project\ILSShipping\Shipping\bin\Release\Infragistics2.Win.UltraWinGauge.v10.2.dll
+G:\Project\ILSShipping\Shipping\bin\Release\Infragistics2.Win.UltraWinGrid.ExcelExport.v10.2.dll
+G:\Project\ILSShipping\Shipping\bin\Release\Infragistics2.Win.UltraWinGrid.v10.2.dll
+G:\Project\ILSShipping\Shipping\bin\Release\Infragistics2.Win.UltraWinInkProvider.Ink17.v10.2.dll
+G:\Project\ILSShipping\Shipping\bin\Release\Infragistics2.Win.UltraWinInkProvider.v10.2.dll
+G:\Project\ILSShipping\Shipping\bin\Release\Infragistics2.Win.UltraWinListBar.v10.2.dll
+G:\Project\ILSShipping\Shipping\bin\Release\Infragistics2.Win.UltraWinListView.v10.2.dll
+G:\Project\ILSShipping\Shipping\bin\Release\Infragistics2.Win.UltraWinMaskedEdit.v10.2.dll
+G:\Project\ILSShipping\Shipping\bin\Release\Infragistics2.Win.UltraWinPrintPreviewDialog.v10.2.dll
+G:\Project\ILSShipping\Shipping\bin\Release\Infragistics2.Win.UltraWinSchedule.v10.2.dll
+G:\Project\ILSShipping\Shipping\bin\Release\Infragistics2.Win.UltraWinSpellChecker.v10.2.dll
+G:\Project\ILSShipping\Shipping\bin\Release\Infragistics2.Win.UltraWinStatusBar.v10.2.dll
+G:\Project\ILSShipping\Shipping\bin\Release\Infragistics2.Win.UltraWinTabbedMdi.v10.2.dll
+G:\Project\ILSShipping\Shipping\bin\Release\Infragistics2.Win.UltraWinTabControl.v10.2.dll
+G:\Project\ILSShipping\Shipping\bin\Release\Infragistics2.Win.UltraWinToolbars.v10.2.dll
+G:\Project\ILSShipping\Shipping\bin\Release\Infragistics2.Win.UltraWinTree.v10.2.dll
+G:\Project\ILSShipping\Shipping\bin\Release\Infragistics2.Win.v10.2.Design.dll
+G:\Project\ILSShipping\Shipping\bin\Release\Infragistics2.Win.v10.2.dll
+G:\Project\ILSShipping\Shipping\bin\Release\Infragistics3.Excel.v10.2.dll
+G:\Project\ILSShipping\Shipping\bin\Release\Microsoft.Office.Interop.Excel.dll
+G:\Project\ILSShipping\Shipping\bin\Release\OrmLib.dll
+G:\Project\ILSShipping\Shipping\bin\Release\ShippingBiz.dll
+G:\Project\ILSShipping\Shipping\bin\Release\Xceed.FileSystem.dll
+G:\Project\ILSShipping\Shipping\bin\Release\Xceed.Ftp.dll
+G:\Project\ILSShipping\Shipping\bin\Release\office.dll
+G:\Project\ILSShipping\Shipping\bin\Release\Microsoft.Vbe.Interop.dll
+G:\Project\ILSShipping\Shipping\bin\Release\ShippingBiz.xml
+G:\Project\ILSShipping\Shipping\obj\Release\ResolveAssemblyReference.cache
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmNosaAccount.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmNosaAccountExp.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmNosaConfirm.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmNosaGenerateVC.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmWHLMapping.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmWHlMappingOutward.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmCustomerDemurageReport.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmDemurrageControlReport.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmDetentionOutStandingSummary.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmExportDetentionReport.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.frmIGCReport.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmDuplicateFreeDays.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmECSImportShipmentDetails.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmECSImportShipmentDetailsDO.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmInwardDuplicateFreeDays.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmBarcodeIssuedBls.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmAccGnrlReport.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmGroupInvoice.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmGroupRcvd.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmAgents.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.Resources.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.CLGeneralForm.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmAccountTitle.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmDeposits.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmInvoiceEdit.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmInvoiceTrace.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmInwardInvoice.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmOutWardInvoice.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmRecivedItems.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmVoyageSummary.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmVoyageSummaryExp.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmEcs.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmEcsApplyFC.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmEcsBatch.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmEcsCodecoApply.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmEcsImport.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmEcsReports.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmEcsWHLReports.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmShowDamage.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmShowImage.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.CustomColumnChooser.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FRmAboutBox.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmActivity.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmBLCharges.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmBlPrintDef.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmCalculationBase.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmChangeLineDialog.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmClientDialog.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmClientMerge.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmClients.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmCluses.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmComments.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmCompany.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmCustomColumnChooser.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmCustomReportItem.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmDetentionBase.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmDialogPrint.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmDialogShowGrid.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmExchange.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmGeneralReportShow.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmGeneralSearch.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmGenXML.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmInwardStatus.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmLines.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmLogon.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmLogView.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmLogViewByID.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmMapEDI.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmPMain.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmPortDialog.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmPorts.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmRaiseError.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmReferences.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmSetelment.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmShowDocuments.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmSof.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmStatestical.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmStatesticalExp.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmTaxBase.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmTemp.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmTempalte.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmTraceBls.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmUsers.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmVesselList.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmVessels.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmVoyage.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.NewColumnDialog.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.xxBLTools.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmBLTools.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmDOPrint.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmEDI.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmImco.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmInquery.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmInqueryCheckList.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmInwardBls.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmInwardDiscount.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmInwardGenaralList.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmInwardGenaralListDate.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmInwardSearch.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmSendDocument.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmWditPortWrongList.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmAssignVoyExportCntrs.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmBLToolsOutward.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmBooking.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmBookingCntrs.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmBookingMerge.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmBookingReleaseRequest.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmBookingTrace.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmOutwardBls.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmOutwardDiscount.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmOutwardGenaralList.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmoutwardGenaralListDate.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmOutwardSearch.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmOutwardTempalte.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmPermits.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmPermitTools.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmReleaseLetter.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmSalesActivity.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.FrmSearchAdvanceOut.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.ThumbnailControl.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.UserBLMisc.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.UserBLPrint.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.UserBLS.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.UserBlsCharges.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.UserBlsCntrs.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.UserBlsComments.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.UserBlsDocs.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.UserBlsFinancial.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.UserBlsGoods.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.UserBlsNames.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.UserBlsPersian.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.UserBookingNo.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.UserBookingSearch.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.UserClients.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.UserClientText.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.UserComboCode.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.UserComboGnrl.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.UserComboVessel.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.UserComboVoyage.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.UserDetentionByDay.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.UserEcsCntrsInsert.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.UserFreeTime.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.UserGeneralForms.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.UserGnrlDate.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.UserImco.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.UserInfo.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.UserInwardBlsBookingNo.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.UserMemo.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.UserMenuItem.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.UserNavigate.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.UserNum.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.UserOutwardBlsBookingNo.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.UserPortCode.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.UserText.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.UserTextFarsi.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.vbproj.GenerateResource.Cache
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.exe.licenses
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.exe.manifest
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.application
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.exe
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.xml
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.pdb
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.UserRemarks.resources
+G:\Project\ILSShipping\Shipping\obj\Release\Shipping.MailUser.resources
+D:\Appu\Projects\ILSShipping\Shipping\bin\Release\Aspose.Words.dll
+D:\Appu\Projects\ILSShipping\Shipping\bin\Release\Shipping.exe.config
+D:\Appu\Projects\ILSShipping\Shipping\bin\Release\Shipping.exe.manifest
+D:\Appu\Projects\ILSShipping\Shipping\bin\Release\Shipping.application
+D:\Appu\Projects\ILSShipping\Shipping\bin\Release\Shipping.exe
+D:\Appu\Projects\ILSShipping\Shipping\bin\Release\Shipping.pdb
+D:\Appu\Projects\ILSShipping\Shipping\bin\Release\Shipping.xml
+D:\Appu\Projects\ILSShipping\Shipping\bin\Release\Aspose.Cells.dll
+D:\Appu\Projects\ILSShipping\Shipping\bin\Release\Infragistics2.Documents.v10.2.dll
+D:\Appu\Projects\ILSShipping\Shipping\bin\Release\Infragistics2.Excel.v10.2.dll
+D:\Appu\Projects\ILSShipping\Shipping\bin\Release\Infragistics2.Shared.v10.2.dll
+D:\Appu\Projects\ILSShipping\Shipping\bin\Release\Infragistics2.Win.AppStylistSupport.v10.2.dll
+D:\Appu\Projects\ILSShipping\Shipping\bin\Release\Infragistics2.Win.Misc.v10.2.dll
+D:\Appu\Projects\ILSShipping\Shipping\bin\Release\Infragistics2.Win.SupportDialogs.v10.2.dll
+D:\Appu\Projects\ILSShipping\Shipping\bin\Release\Infragistics2.Win.UltraChart.v10.2.Design.dll
+D:\Appu\Projects\ILSShipping\Shipping\bin\Release\Infragistics2.Win.UltraGauge.v10.2.Design.dll
+D:\Appu\Projects\ILSShipping\Shipping\bin\Release\Infragistics2.Win.UltraWinCalcManager.v10.2.dll
+D:\Appu\Projects\ILSShipping\Shipping\bin\Release\Infragistics2.Win.UltraWinCalcManager.v10.2.FormulaBuilder.dll
+D:\Appu\Projects\ILSShipping\Shipping\bin\Release\Infragistics2.Win.UltraWinChart.v10.2.dll
+D:\Appu\Projects\ILSShipping\Shipping\bin\Release\Infragistics2.Win.UltraWinDataSource.v10.2.dll
+D:\Appu\Projects\ILSShipping\Shipping\bin\Release\Infragistics2.Win.UltraWinDock.v10.2.dll
+D:\Appu\Projects\ILSShipping\Shipping\bin\Release\Infragistics2.Win.UltraWinEditors.v10.2.dll
+D:\Appu\Projects\ILSShipping\Shipping\bin\Release\Infragistics2.Win.UltraWinExplorerBar.v10.2.dll
+D:\Appu\Projects\ILSShipping\Shipping\bin\Release\Infragistics2.Win.UltraWinGanttView.v10.2.dll
+D:\Appu\Projects\ILSShipping\Shipping\bin\Release\Infragistics2.Win.UltraWinGauge.v10.2.dll
+D:\Appu\Projects\ILSShipping\Shipping\bin\Release\Infragistics2.Win.UltraWinGrid.ExcelExport.v10.2.dll
+D:\Appu\Projects\ILSShipping\Shipping\bin\Release\Infragistics2.Win.UltraWinGrid.v10.2.dll
+D:\Appu\Projects\ILSShipping\Shipping\bin\Release\Infragistics2.Win.UltraWinInkProvider.Ink17.v10.2.dll
+D:\Appu\Projects\ILSShipping\Shipping\bin\Release\Infragistics2.Win.UltraWinInkProvider.v10.2.dll
+D:\Appu\Projects\ILSShipping\Shipping\bin\Release\Infragistics2.Win.UltraWinListBar.v10.2.dll
+D:\Appu\Projects\ILSShipping\Shipping\bin\Release\Infragistics2.Win.UltraWinListView.v10.2.dll
+D:\Appu\Projects\ILSShipping\Shipping\bin\Release\Infragistics2.Win.UltraWinMaskedEdit.v10.2.dll
+D:\Appu\Projects\ILSShipping\Shipping\bin\Release\Infragistics2.Win.UltraWinPrintPreviewDialog.v10.2.dll
+D:\Appu\Projects\ILSShipping\Shipping\bin\Release\Infragistics2.Win.UltraWinSchedule.v10.2.dll
+D:\Appu\Projects\ILSShipping\Shipping\bin\Release\Infragistics2.Win.UltraWinSpellChecker.v10.2.dll
+D:\Appu\Projects\ILSShipping\Shipping\bin\Release\Infragistics2.Win.UltraWinStatusBar.v10.2.dll
+D:\Appu\Projects\ILSShipping\Shipping\bin\Release\Infragistics2.Win.UltraWinTabbedMdi.v10.2.dll
+D:\Appu\Projects\ILSShipping\Shipping\bin\Release\Infragistics2.Win.UltraWinTabControl.v10.2.dll
+D:\Appu\Projects\ILSShipping\Shipping\bin\Release\Infragistics2.Win.UltraWinToolbars.v10.2.dll
+D:\Appu\Projects\ILSShipping\Shipping\bin\Release\Infragistics2.Win.UltraWinTree.v10.2.dll
+D:\Appu\Projects\ILSShipping\Shipping\bin\Release\Infragistics2.Win.v10.2.Design.dll
+D:\Appu\Projects\ILSShipping\Shipping\bin\Release\Infragistics2.Win.v10.2.dll
+D:\Appu\Projects\ILSShipping\Shipping\bin\Release\Infragistics3.Excel.v10.2.dll
+D:\Appu\Projects\ILSShipping\Shipping\bin\Release\OrmLib.dll
+D:\Appu\Projects\ILSShipping\Shipping\bin\Release\ShippingBiz.dll
+D:\Appu\Projects\ILSShipping\Shipping\bin\Release\Xceed.FileSystem.dll
+D:\Appu\Projects\ILSShipping\Shipping\bin\Release\Xceed.Ftp.dll
+D:\Appu\Projects\ILSShipping\Shipping\bin\Release\ShippingBiz.xml
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\ResolveAssemblyReference.cache
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmNosaAccount.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmNosaAccountExp.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmNosaConfirm.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmNosaGenerateVC.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmWHLMapping.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmWHlMappingOutward.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.frmExportInvoices.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmCustomerDemurageReport.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmDemurrageControlReport.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmDetentionOutStandingSummary.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmExportDetentionReport.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.frmIGCReport.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.MailUser.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmDuplicateFreeDays.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmECSImportShipmentDetails.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmECSImportShipmentDetailsDO.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.About.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmEcsBank.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmEcsBankImport.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmEcsImportDialog.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmEDI.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmInwardDuplicateFreeDays.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmBarcodeIssuedBls.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmAccGnrlReport.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmGroupInvoice.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmGroupRcvd.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmAgents.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.Resources.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.CLGeneralForm.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmAccountTitle.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmDeposits.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmInvoiceEdit.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmInvoiceTrace.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmInwardInvoice.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmOutWardInvoice.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmRecivedItems.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmVoyageSummary.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmVoyageSummaryExp.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmEcs.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmEcsApplyFC.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmEcsBatch.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmEcsCodecoApply.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmEcsImport.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmEcsReports.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmEcsWHLReports.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmShowDamage.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmShowImage.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.CustomColumnChooser.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FRmAboutBox.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmActivity.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmBLCharges.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmBlPrintDef.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmCalculationBase.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmChangeLineDialog.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmClientDialog.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmClientMerge.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmClients.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmCluses.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmComments.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmCompany.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmCustomColumnChooser.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmCustomReportItem.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmDetentionBase.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmDialogPrint.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmDialogShowGrid.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmExchange.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmGeneralReportShow.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmGeneralSearch.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmGenXML.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmInwardStatus.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmLines.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmLogon.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmLogView.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmLogViewByID.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmMapEDI.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmPMain.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmPortDialog.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmPorts.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmRaiseError.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmReferences.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmSetelment.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmShowDocuments.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmSof.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmStatestical.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmStatesticalExp.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmTaxBase.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmTemp.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmTempalte.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmTraceBls.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmUsers.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmVesselList.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmVessels.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmVoyage.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.NewColumnDialog.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.xxBLTools.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmBLTools.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmDOPrint.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmImco.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmInquery.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmInqueryCheckList.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmInwardBls.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmInwardDiscount.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmInwardGenaralList.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmInwardGenaralListDate.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmInwardSearch.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmSendDocument.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmWditPortWrongList.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmAssignVoyExportCntrs.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmBLToolsOutward.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmBooking.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmBookingCntrs.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmBookingMerge.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmBookingReleaseRequest.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmBookingTrace.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmOutwardBls.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmOutwardDiscount.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmOutwardGenaralList.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmoutwardGenaralListDate.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmOutwardSearch.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmOutwardTempalte.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmPermits.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmPermitTools.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmReleaseLetter.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmSalesActivity.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmSearchAdvanceOut.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.ThumbnailControl.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.UserBLMisc.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.UserBLPrint.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.UserBLS.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.UserBlsCharges.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.UserBlsCntrs.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.UserBlsCntrsPkg.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.UserBlsComments.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.UserBlsDocs.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.UserBlsFinancial.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.UserBlsGoods.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.UserBlsNames.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.UserBlsPersian.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.UserBookingNo.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.UserBookingSearch.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.UserClients.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.UserClientText.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.UserComboCode.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.UserComboGnrl.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.UserComboVessel.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.UserComboVoyage.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.UserDetentionByDay.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.UserEcsCntrsInsert.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.UserFreeTime.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.UserGeneralForms.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.UserGnrlDate.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.UserImco.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.UserInfo.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.UserMemo.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.UserMenuItem.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.UserNavigate.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.UserNum.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.UserOutwardBlsBookingNo.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.UserPortCode.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.UserText.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.UserTextFarsi.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.vbproj.GenerateResource.Cache
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.exe.manifest
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.application
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.exe
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.xml
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.pdb
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.FrmAgentDemurageReport.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.UserAgents.resources
+D:\Appu\Projects\ILSShipping\Shipping\obj\Release\Shipping.frmCustomerBalanceAccount.resources
