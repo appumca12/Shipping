@@ -863,7 +863,7 @@ Public Class FrmPermitTools
     Private Sub MapDirect_CCS()
         Dim CL As New CLEditTextFormat(Me.Voyage.VoyageID, "CCS")
         Dim Row As UltraGridRow
-
+        ''appu
         For Each Row In Me.GridPermits.Rows
             If Row.Cells("Select").Value = True Then
                 CL.GenEDITextFormatByPermit_CCS(Row.Cells("PermitNo").Value)
