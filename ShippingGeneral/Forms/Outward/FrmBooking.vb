@@ -299,6 +299,8 @@ Public Class FrmBooking
                 Me.BookingNo.TextValue = "LSL" + SeqTab.Rows(0).Item(0)
             ElseIf CurrentShippingLine = "SAG" Then
                 Me.BookingNo.TextValue = "SAG" + SeqTab.Rows(0).Item(0)
+            ElseIf CurrentShippingLine = "WWS" Then
+                Me.BookingNo.TextValue = "WWS" + SeqTab.Rows(0).Item(0)
             Else
                 Me.BookingNo.TextValue = SeqTab.Rows(0).Item(0)
             End If
